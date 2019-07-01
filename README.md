@@ -44,7 +44,19 @@ introduction
 [Link](url)
 ```
 
-# Open Source Software
+# Accumulation in the Process of Robot Development
+introduction  
+
+## the Third-party Libraries 
+```markdown
+### introduction opensource kit
+
+### Development Platform
+[展示图片] 
+[Link](url)
+```
+
+Open Source Software
 some words    
 
 You can use the [editor on GitHub](https://github.com/Zippen-Huang/Zippen-Huang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
