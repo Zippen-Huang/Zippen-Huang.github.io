@@ -1,4 +1,4 @@
-# 个人信息 | Zippen's Info   
+# 个人信息    
 
 [头像图片]        
 self-introduction   
