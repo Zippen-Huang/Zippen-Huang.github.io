@@ -49,6 +49,22 @@ introduction
 [Link](url)
 ```
 
+
+# Accumulation in the Process of Robot Development
+introduction  
+
+## the Third-party Libraries 
+```markdown
+### introduction opensource kit
+
+### Development Platform
+[展示图片] 
+[Link](url)
+
+### Open Source Software
+some words
+```
+
 # Excellent Paper I've Read
 ## xxxx1
 ```markdown
@@ -67,20 +83,21 @@ introduction
 [Link](url)
 ```
 
-# Accumulation in the Process of Robot Development
+# Excellent WEB I've Seen
 introduction  
 
-## the Third-party Libraries 
+## Person Main Pages 
 ```markdown
 ### introduction opensource kit
-
+yangzhiping's main page:[Link](https://www.yangzhiping.com/info/blogger.html)
 ### Development Platform
 [展示图片] 
-[Link](url)
+[Link](https://www.yangzhiping.com/info/blogger.html)
 
 ### Open Source Software
 some words
 ```
+
 
 # Likes
 introduction 
