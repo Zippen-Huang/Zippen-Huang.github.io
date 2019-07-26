@@ -5,16 +5,19 @@ self-introduction
 keywords:   
 [qq email]   
 
-# Zippen's Publications
+# 成果发表 | Zippen's Publications
 
-paper：
+## 论文 | papers：
+none
+
+## 专利 | patents:
        
 
-# Field of Research
+# 研究领域 | Field of Research
 
 some words     
 
-# Robot Projects Development
+# 项目经历 | Robot Projects Development
 some words     
 
 ## 1 xxxx Robot
@@ -50,40 +53,46 @@ introduction
 ```
 
 
-# Accumulation in the Process of Robot Development
+# 项目开发过程中的积累 | Accumulation in the Process of Robot Development
 introduction  
 
-## the Third-party Libraries 
+## 第三方库 | the Third-party Libraries 
 ```markdown
 ### introduction opensource kit
 
-### Development Platform
+### 开发平台 | Development Platform
 [展示图片] 
 [Link](url)
 
-### Open Source Software
+### 开源软件 | Open Source Software
 some words
 ```
 
-# Excellent Paper I've Read
-## xxxx1
+# 阅读的优秀文章 | Excellent Papers I've Read
+## 规划与避障 | path planning and collision avoidance
 ```markdown
 1 paper
 2 paper
 [Link](url)
 ```
-## xxxx2
+## 控制算法 | controll algorithms
 ```markdown
 introduction 
 [Link](url)
 ```
-## xxxx3
+## 感知算法 | perception algorithms
 ```markdown
 introduction 
 [Link](url)
 ```
 
-# Excellent WEB I've Seen
+## 定位算法 | location algorithms
+```markdown
+introduction 
+[Link](url)
+```
+
+# 优秀的网站 | Excellent WEB I've Seen
 introduction  
 
 ## Person Main Pages 
@@ -99,7 +108,7 @@ some words
 ```
 
 
-# Likes
+# 爱好 | Likes
 introduction 
 
 
