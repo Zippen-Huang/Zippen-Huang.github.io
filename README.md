@@ -1,9 +1,9 @@
 # 个人信息 | Zippen's Info    
 
 [头像图片]        
-self-introduction   
-keywords:   
-[qq email]   
+a mobile robot maker, especially the field of automatic control and planning   
+keywords: robot, auto-driving system, planning and control   
+qq: huang_zhipeng@foxmail.com   
 
 # 成果发表 | Zippen's Publications
 
@@ -75,7 +75,7 @@ some words
 2 paper
 [Link](url)
 ```
-## 控制算法 | controll algorithms
+## 控制算法 | control algorithms
 ```markdown
 introduction 
 [Link](url)
