@@ -1,17 +1,16 @@
 # 个人信息 | Zippen's Info    
 
 [头像图片]
-```markdown
+
 a mobile robot maker, especially the field of automatic control and planning   
 keywords:    
 qq: huang_zhipeng@foxmail.com   
-```
+
 
 # 研究领域 | Field of Research
-```markdown
 自动驾驶（融合感知与规划、自动控制） | auto-driving system(integrated perception and planning,  automatic control) 
 仿生与特种机器人 | biologically inspired and specialized robot     
-```
+
 # 成果发表 | Publications
 
 ## 论文 | papers：
@@ -32,14 +31,16 @@ in preparation
 ```       
 
 # 项目经历 | Robot Projects Development
-some words     
+Robot projects practice, recorded in chronological order     
 
-## 1 xxxx Robot
+## 1 管道检测机器人 | Pipe Inspection Robot
   
 ```markdown
-introduction 
+简介 | introduction
+    项目主要设计一款能够适用于内管道的可主/被动变形的管道爬行机器人，可通过机构主动调节机器人外围半径，亦可通过弹性元件被动调节机器人外围半径。设计前后对称、总共三（多）节模块化机体，并在机器人前端与后端安装探伤检测仪器，合成运动性能好、扩展性强的管道爬行机器人。
+    The project  designed a pipeline inspection robot that can be applied to the inner pipeline with active/passive deformation. The mechanism can actively adjust the peripheral radius of the robot, and the outer radius of the robot can be passively adjusted by the elastic component. It is symmetrical and modularized, and the detection instrument is installed at the front end and the rear end of the robot to synthesize a pipe crawling robot with good performance and extensibility.
 [展示图片] 
-[Link](url)
+[视频展示 | result show](http://v.youku.com/v_show/id_XMTI3OTE0MTk5Mg==.html)
 ```
 
 ## 2 xxxx Robot
