@@ -3,11 +3,16 @@
 [头像图片]
 ```markdown
 a mobile robot maker, especially the field of automatic control and planning   
-keywords: robot, auto-driving system, planning and control   
+keywords:    
 qq: huang_zhipeng@foxmail.com   
 ```
 
-# 成果发表 | Zippen's Publications
+# 研究领域 | Field of Research
+```markdown
+自动驾驶（融合感知与规划、自动控制） | auto-driving system(integrated perception and planning,  automatic control) 
+仿生与特种机器人 | biologically inspired and specialized robot     
+```
+# 成果发表 | Publications
 
 ## 论文 | papers：
 in preparation
@@ -22,13 +27,9 @@ in preparation
 [6] 楼宇环境新型文件配送系统. (201910119506.7).
 [7] 基于视觉的二维码定位抓取机器人系统算法. (201910011866.5).
 [8] 一种多分裂高压导线断股修补辅助装置及其使用方法. (201910149941.4).
-[9] 一种应用C形腿的六足机器人动力特性分析方法. (201910300123.X)
-[10]基于SMA驱动方式的新型跳跃机器人. (2019103294229.8)
+[9] 一种应用C形腿的六足机器人动力特性分析方法. (201910300123.X).
+[10]基于SMA驱动方式的新型跳跃机器人. (2019103294229.8).
 ```       
-
-# 研究领域 | Field of Research
-
-some words     
 
 # 项目经历 | Robot Projects Development
 some words     
