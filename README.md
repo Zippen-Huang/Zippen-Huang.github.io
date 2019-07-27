@@ -134,10 +134,11 @@ Document useful resources during project development
 ROS
 Armadillo：C++下的Matlab替代品
 Eigen3
-OMPL
+OMPL(Open Motion Planning Library)
 boost
 opencv
 pcl
+matlab robotics toolbox
 
 
 ### 其他软件 | Others
@@ -147,9 +148,24 @@ pcl
 ## 硬件 | Hardware  
 ```markdown
 ###  处理器平台 | Processor Platforms
+#### 高级处理器　｜　High-level　Processors
+NVIDIA Jetson Family: TK1, TX1, TX2, NANO, Xaiver
+Intel Family: Intel NUC, Galileo, Edison
+Raspberry Pi Series
+ODROID Series
+HUAWEI HAISI hikey970
+
+#### 低级处理器　｜　Low-level　Processors
+STM32 Series
+Arduino Series
 
 ###  传感器 | Sensors
-some words
+#### 感知类　｜　Perception Sensors
+MicroSoft Kinect
+Intel RealSense
+ZED
+
+
 
 ###  其他硬件 | Others
 ```
@@ -183,6 +199,8 @@ introduction
 
 ```markdown
 ## 个人主页 | Person Main Pages 
+[Brian2018](https://blog.csdn.net/libing403/article/details/89344476)[主要为机械臂和轨迹规划算法相关]
+
 
 ## introduction opensource kit
 yangzhiping's main page:[Link](https://www.yangzhiping.com/info/blogger.html)
