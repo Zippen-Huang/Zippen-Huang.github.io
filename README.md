@@ -8,7 +8,7 @@ qq: huang_zhipeng@foxmail.com
 
 
 # 研究领域 | Field of Research
-自动驾驶（融合感知与规划、自动控制） | self-driving system(integrated perception and planning,  motion control) 
+自动驾驶（融合感知与规划、自动控制） | self-driving system(integrated perception and planning,  motion control)    
 仿生与特种机器人 | biologically inspired and specialized robot design and control    
 
 # 成果发表 | Publications
@@ -32,6 +32,19 @@ in preparation
 
 # 项目经历 | Robot Projects Development
 Robot projects practice, recorded in chronological order  
+
+## 4 六足无人平台动力分析与电源管理 | Intelligent Follow Logistics Vehicle     (2017.09-2018.04)
+
+
+## 4 六足无人平台动力分析与电源管理 | Intelligent Follow Logistics Vehicle     (2017.09-2018.04)
+```markdown
+简介 | introduction
+    项目主要研究六足机器人。主要负责机器人动力特性分析，并设计电源管理系统。
+    The project focused on hexapod robots. Mainly responsible for the analysis of robot dynamic characteristics and design of power management system.
+[展示图片] 
+[Link](url)
+```
+
 
 ## 4 基于手势控制的智能跟随物流车 | Intelligent Follow Logistics Vehicle     (2016.10-2017.06)
 
