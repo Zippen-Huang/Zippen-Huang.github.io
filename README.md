@@ -1,17 +1,30 @@
 # 个人信息 | Zippen's Info    
 
-[头像图片]        
+[头像图片]
+```markdown
 a mobile robot maker, especially the field of automatic control and planning   
 keywords: robot, auto-driving system, planning and control   
 qq: huang_zhipeng@foxmail.com   
+```
 
 # 成果发表 | Zippen's Publications
 
 ## 论文 | papers：
-none
+in preparation
 
 ## 专利 | patents:
-       
+```markdown
+[1] 一种增力机械手爪. (201620043599.1).
+[2] 一种可实用于内、外管道爬行机器人. (201521050698.4).
+[3] 一种新型机械臂. (201621174783.6).
+[4] 简易玉米脱粒机. (201711319375.4).
+[5] 玉米脱粒机. (201711321004.X).
+[6] 楼宇环境新型文件配送系统. (201910119506.7).
+[7] 基于视觉的二维码定位抓取机器人系统算法. (201910011866.5).
+[8] 一种多分裂高压导线断股修补辅助装置及其使用方法. (201910149941.4).
+[9] 一种应用C形腿的六足机器人动力特性分析方法. (201910300123.X)
+[10]基于SMA驱动方式的新型跳跃机器人. (2019103294229.8)
+```       
 
 # 研究领域 | Field of Research
 
