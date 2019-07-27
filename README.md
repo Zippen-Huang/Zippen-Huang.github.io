@@ -31,10 +31,25 @@ in preparation
 ```       
 
 # 项目经历 | Robot Projects Development
-Robot projects practice, recorded in chronological order  
+Robot projects practice, recorded in chronological order 
 
-## 4 六足无人平台动力分析与电源管理 | Intelligent Follow Logistics Vehicle     (2017.09-2018.04)
+## 4 基于ROS的“空地协同”机器人系统 | ROS-based "Air-ground Coordination" Robot System     (2019.04-2019.05)
+```markdown
+简介 | introduction
+    项目主要为全向移动机器人与无人机之间配合，并沿着设有障碍物的路径行进到终点。无人机通过摄像头识别移动机器人顶部的二维码，以实现跟随运动；移动机器人通过Intel RealSense采集RGB图像，矫正移动机器人的姿态，通过分析深度图，判断前方障碍物的大小与位置，实现避障。
+   The project worked with an omnidirectional mobile robot and a quadrotor, and travels along the path with obstacles to the end. The quadrotor recognizes the QR code on the top of the mobile robot through the camera to achieve the following action; the mobile robot acquires the RGB image through Intel RealSense, corrects the posture of the mobile robot, and analyzes the depth map to determine the size and position of the obstacle in front, thereby avoiding barrier.
+[展示图片] 
+[Link](url)
+```
 
+## 4 基于二维码定位抓取的自主移动机器人 | Autonomous Mobile Robot Based on QR Code Positioning and Grabbing     (2018.09-2018.12)
+```markdown
+简介 | introduction
+    项目主要设计一款搭载四自由度机械臂的全向移动平台，并通过ZED双目摄像头识别附有二维码的物体的空间位姿，完成对目标物的移动、定位与抓取操作。
+    The project designed an omnidirectional mobile platform equipped with a four-degree-of-freedom manipulator, and identifies the spatial pose of the object with the QR code through the ZED stereo camera to complete the moving, positioning and grasping operation of the target.
+[展示图片] 
+[Link](url)
+```
 
 ## 4 六足无人平台动力分析与电源管理 | Intelligent Follow Logistics Vehicle     (2017.09-2018.04)
 ```markdown
