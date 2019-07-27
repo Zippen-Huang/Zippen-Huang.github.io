@@ -8,8 +8,8 @@ qq: huang_zhipeng@foxmail.com
 
 
 # 研究领域 | Field of Research
-自动驾驶（融合感知与规划、自动控制） | auto-driving system(integrated perception and planning,  automatic control) 
-仿生与特种机器人 | biologically inspired and specialized robot     
+自动驾驶（融合感知与规划、自动控制） | self-driving system(integrated perception and planning,  motion control) 
+仿生与特种机器人 | biologically inspired and specialized robot design and control    
 
 # 成果发表 | Publications
 
@@ -31,9 +31,52 @@ in preparation
 ```       
 
 # 项目经历 | Robot Projects Development
-Robot projects practice, recorded in chronological order     
+Robot projects practice, recorded in chronological order  
 
-## 1 管道检测机器人 | Pipe Inspection Robot
+## 4 基于手势控制的智能跟随物流车 | Intelligent Follow Logistics Vehicle     (2016.10-2017.06)
+
+```markdown
+简介 | introduction
+    项目主要研究设计兼具手势控制、智能跟随功能的大载重物流车。基于kinect采集人体姿态信息，将之转化为机器人运动控制信息，实现机器人智能跟随。
+    The project designed large-load logistics vehicles with gesture control and intelligent following functions. Based on kinect camera, the human body posture information is collected and converted into robot motion control information to realize robot intelligent following.
+[展示图片] 
+[Link](url)
+```
+
+## 4 单电机螺旋式驱动机器人 | Single-motor Spiral-driven Robot     (2016.06-2016.09)
+
+```markdown
+简介 | introduction
+    项目主要研制单电机螺旋式驱动的波浪式机器人，通过单电机驱动空间螺旋线机构绕轴线旋转，带动多级串联连杆机构呈“波浪式”运动。
+    The project developed a single-motor spiral-driven wave-type robot, which rotates around the axis by a single-motor-driven space spiral mechanism, and drives the multi-stage series linkage mechanism to be “wave-like”.
+[展示图片] 
+[参考文献 | reference paper]
+[Link](url)
+```
+
+## 3 重力自平衡机械臂 | Gravity-balance Robot Arm     (2016.04-2016.09)
+  
+```markdown
+简介 | introduction 
+    项目主要研究适用于机械臂的负载能力提升装置，采用内嵌式机构平衡机械臂自身重力，并设计应用该辅助装置的小型机械臂。
+    The project studied the load capacity enhancement device applicable to the robot arm, and uses an in-line mechanism to balance the gravity of the arm itself, and a small robot arm to which the auxiliary device is applied.
+[展示图片]
+[参考文献 | reference paper]
+[Link](url)
+```
+
+## 2 仿生四足机器人 | Bionic Quadruped Robot     (2015.08-2015.12)
+  
+```markdown
+简介 | introduction 
+    项目主要设计一种高速、低惯量、八连杆单自由度仿生腿，以此作为机器人后腿；采用六连杆机构设计机器人前腿，基于此设计仿生腿的仿生四足机器人。
+    The project designed a high-speed, low-inertia, eight-link single-degree-of-freedom bionic leg, which is used as the rear leg of the robot. The six-link mechanism is used to design the front leg of the robot. Based on this, the bionic quadruped robot with bionic legs is designed.
+[展示图片]
+[参考文献 | reference paper]
+[Link](url)
+```
+
+## 1 管道检测机器人 | Pipe Inspection Robot      (2014.11-2015.05)
   
 ```markdown
 简介 | introduction
@@ -41,30 +84,6 @@ Robot projects practice, recorded in chronological order
     The project  designed a pipeline inspection robot that can be applied to the inner pipeline with active/passive deformation. The mechanism can actively adjust the peripheral radius of the robot, and the outer radius of the robot can be passively adjusted by the elastic component. It is symmetrical and modularized, and the detection instrument is installed at the front end and the rear end of the robot to synthesize a pipe crawling robot with good performance and extensibility.
 [展示图片] 
 [视频展示 | result show](http://v.youku.com/v_show/id_XMTI3OTE0MTk5Mg==.html)
-```
-
-## 2 xxxx Robot
-  
-```markdown
-introduction 
-[展示图片] 
-[Link](url)
-```
-
-## 3 xxxx Robot
-  
-```markdown
-introduction 
-[展示图片] 
-[Link](url)
-```
-
-## 4 xxxx Robot
-  
-```markdown
-introduction 
-[展示图片] 
-[Link](url)
 ```
 
 
