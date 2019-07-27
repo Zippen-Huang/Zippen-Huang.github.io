@@ -33,7 +33,16 @@ in preparation
 # 项目经历 | Robot Projects Development
 Robot projects practice, recorded in chronological order 
 
-## 4 基于ROS的“空地协同”机器人系统 | ROS-based "Air-ground Coordination" Robot System     (2019.04-2019.05)
+## 4 面向室外场景的中型移动机器人系统 | Medium-sized Mobile Robot System for Outdoor Scenes(Direction of Logistics)     (2017.11 - 2020.06)
+```markdown
+简介 | introduction
+    项目主要研制面向室内外半结构化环境下的中型自主移动机器人软硬件系统，旨在为物流派送、园区巡检、市区清洁等应用场景提供智能移动平台理论和技术支撑。在基于ROS机器人系统平台，集成感知系统、定位系统、规划系统与控制系统，实现给定目标点的情况下，机器人能够在室内外自主导航至目的地。
+    The project develops a medium-sized autonomous mobile robot software and hardware system for indoor and outdoor semi-structured environments, aiming to provide intelligent mobile platform theory and technical support for application scenarios such as logistics dispatch, park inspection and urban cleaning. Based on the ROS(robot operating system) platform, integrated perception system, location system, planning and control system, the robot can navigate to the destination autonomously given the target point.
+[展示图片] 
+[Link](url)
+```
+
+## 4 基于ROS的“空地协同”机器人系统 | ROS-based "Air-ground Coordination" Robot System     (2019.04 - 2019.05)
 ```markdown
 简介 | introduction
     项目主要为全向移动机器人与无人机之间配合，并沿着设有障碍物的路径行进到终点。无人机通过摄像头识别移动机器人顶部的二维码，以实现跟随运动；移动机器人通过Intel RealSense采集RGB图像，矫正移动机器人的姿态，通过分析深度图，判断前方障碍物的大小与位置，实现避障。
@@ -42,7 +51,7 @@ Robot projects practice, recorded in chronological order
 [Link](url)
 ```
 
-## 4 基于二维码定位抓取的自主移动机器人 | Autonomous Mobile Robot Based on QR Code Positioning and Grabbing     (2018.09-2018.12)
+## 4 基于二维码定位抓取的自主移动机器人 | Autonomous Mobile Robot Based on QR Code Positioning and Grabbing     (2018.09 - 2018.12)
 ```markdown
 简介 | introduction
     项目主要设计一款搭载四自由度机械臂的全向移动平台，并通过ZED双目摄像头识别附有二维码的物体的空间位姿，完成对目标物的移动、定位与抓取操作。
@@ -51,7 +60,7 @@ Robot projects practice, recorded in chronological order
 [Link](url)
 ```
 
-## 4 六足无人平台动力分析与电源管理 | Intelligent Follow Logistics Vehicle     (2017.09-2018.04)
+## 4 六足无人平台动力分析与电源管理 | Intelligent Follow Logistics Vehicle     (2017.09 - 2018.04)
 ```markdown
 简介 | introduction
     项目主要研究六足机器人。主要负责机器人动力特性分析，并设计电源管理系统。
@@ -61,7 +70,7 @@ Robot projects practice, recorded in chronological order
 ```
 
 
-## 4 基于手势控制的智能跟随物流车 | Intelligent Follow Logistics Vehicle     (2016.10-2017.06)
+## 4 基于手势控制的智能跟随物流车 | Intelligent Follow Logistics Vehicle     (2016.10 - 2017.06)
 
 ```markdown
 简介 | introduction
@@ -71,7 +80,7 @@ Robot projects practice, recorded in chronological order
 [Link](url)
 ```
 
-## 4 单电机螺旋式驱动机器人 | Single-motor Spiral-driven Robot     (2016.06-2016.09)
+## 4 单电机螺旋式驱动机器人 | Single-motor Spiral-driven Robot     (2016.06 - 2016.09)
 
 ```markdown
 简介 | introduction
@@ -82,7 +91,7 @@ Robot projects practice, recorded in chronological order
 [Link](url)
 ```
 
-## 3 重力自平衡机械臂 | Gravity-balance Robot Arm     (2016.04-2016.09)
+## 3 重力自平衡机械臂 | Gravity-balance Robot Arm     (2016.04 - 2016.09)
   
 ```markdown
 简介 | introduction 
@@ -93,7 +102,7 @@ Robot projects practice, recorded in chronological order
 [Link](url)
 ```
 
-## 2 仿生四足机器人 | Bionic Quadruped Robot     (2015.08-2015.12)
+## 2 仿生四足机器人 | Bionic Quadruped Robot     (2015.08 - 2015.12)
   
 ```markdown
 简介 | introduction 
@@ -104,7 +113,7 @@ Robot projects practice, recorded in chronological order
 [Link](url)
 ```
 
-## 1 管道检测机器人 | Pipe Inspection Robot      (2014.11-2015.05)
+## 1 管道检测机器人 | Pipe Inspection Robot      (2014.11 - 2015.05)
   
 ```markdown
 简介 | introduction
