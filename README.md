@@ -82,8 +82,8 @@ Robot projects practice, recorded in chronological order.
 记录在项目开发过程中非常有用的资源   
 Document useful resources during project development    
 
-## 软件 | Software  
-### 开发平台 | Development Platforms
+## 1 软件 | Software  
+### 1.1 开发平台 | Development Platforms
 * ROS
 * RVIZ
 * Gazabo
@@ -93,7 +93,7 @@ Document useful resources during project development
 
 * Machine Learning: tensorflow, Caffe, Keras, PyTorch, and so on   
 
-### 开源库 | the Third-party Libraries
+### 1.2 开源库 | the Third-party Libraries
 * Armadillo：C++下的Matlab替代品
 * Eigen3
 * OMPL(Open Motion Planning Library)
@@ -102,25 +102,25 @@ Document useful resources during project development
 * pcl
 * matlab robotics toolbox
 
-### 其他软件 | Others
+### 1.3 其他软件 | Others
 
-## 硬件 | Hardware  
-###  处理器平台 | Processor Platforms
-#### 高级处理器　｜　High-level　Processors
+## 2硬件 | Hardware  
+###  2.1 处理器平台 | Processor Platforms
+#### 2.1.1 高级处理器　｜　High-level　Processors
 * NVIDIA Jetson Family: TK1, TX1, TX2, NANO, Xaiver
 * Intel Family: Intel NUC, Galileo, Edison
 * Raspberry Pi Series
 * ODROID Series
-* 华为机器人开发板 | HUAWEI HAISI hikey970
+* 华为机器人开发板  HUAWEI HAISI hikey970
 
-#### 低级处理器　｜　Low-level　Processors
+#### 2.1.2 低级处理器　｜　Low-level　Processors
 * STM32 Series
 * Arduino Series
 * openCR
 
 
-###  传感器 | Sensors
-#### 感知类 ｜Perception
+###  2.2 传感器 | Sensors
+#### 2.2.1 感知类 ｜Perception
 ##### 视觉传感器 | Camera
 * MicroSoft Kinect
 * Intel RealSense
@@ -133,64 +133,69 @@ Document useful resources during project development
 * Ibeo
 * Hokuyo
 * Trimble
-* 思岚科技 | SLAMTEC
+* 思岚科技  SLAMTEC
 * 速腾聚创
 * 禾赛科技
 * 北醒光子
 * 镭神智能
 
-#### 定位类　｜　Location
+#### 2.1.2 定位类　｜　Location
 * razor-imu-9dof
 * Ublox GPS
 
-###  驱动及电机 | Actuators(Motors)
+###  2.1.3 驱动及电机 | Actuators(Motors)
 * DYNAMIXEL
 * maxon motor
 
-###  机器人平台 | Robot that Integrated Hardware and Software
+###  2.1.4 机器人平台 | Robot that Integrated Hardware and Software
 #### Mobile Robots 
 * Turtlebot1, Turtlebot2, Turtlebot3    
 * HUSKY   
 * RACE CAR   
+* Autolabor Pro   
 
 #### Robot Arm  
 * Dobot
 * uArm
 * UR5
 
-###  其他硬件 | Others
+###  2.1.5 其他硬件 | Others
 
 **************************************************************************************************************************
 
 # 经典文献 | Excellent Papers I've Read
 ## 1.规划与避障 | path planning and collision avoidance algorithms
-### 动态窗 | DWA(Dynamic Window Approach)
+### 1.1 动态窗 | DWA(Dynamic Window Approach)
+* Fox D, Burgard W, Thrun S. The dynamic window approach to collision avoidance[J]. IEEE Robotics & Automation Magazine, 1997, 4(1): 23-33.   
+* Brock O, Khatib O. High-speed navigation using the global dynamic window approach[C]//Proceedings 1999 IEEE International Conference on Robotics and Automation (Cat. No. 99CH36288C). IEEE, 1999, 1: 341-346.   
 
-### 时变橡皮筋算法 | TEB(Timed-Elastic-Band)
-
+### 1.2 时变橡皮筋算法 | TEB(Timed-Elastic-Band)
+* Rösmann C, Hoffmann F, Bertram T. Integrated online trajectory planning and optimization in distinctive topologies[J]. Robotics and Autonomous Systems, 2017, 88: 142-153.   
+* Rösmann C, Hoffmann F, Bertram T. Kinodynamic trajectory optimization and control for car-like robots[C]//2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2017: 5681-5686.   
+* 算法代码：[teb_local_planner](http://wiki.ros.org/teb_local_planner)  
 
 ## 2.控制算法 | control algorithms
-### 模型预测控制器 | MPC(Model Predictive Control)
+### 2.1 模型预测控制器 | MPC(Model Predictive Control)
 
-### 线性二次型调节器 | LQR(Linear Quadratic Regulator)
+### 2.2 线性二次型调节器 | LQR(Linear Quadratic Regulator)
 
-### 滑模控制器 | SMC(sliding mode control)
+### 2.3 滑模控制器 | SMC(sliding mode control)
 
-### PID
+### 2.4 PID
 
 ## 3.感知算法 | perception algorithms
-### 深度学习方向 | Deep Learning
+### 3.1 深度学习方向 | Deep Learning
 * YOLO
 * SSD
 
 ## 4.定位算法 | location algorithms
 
 ## 5.滤波算法 | Filter algorithms　
-### 卡尔曼滤波 | KF(Kalman Filter)
+### 5.1 卡尔曼滤波 | KF(Kalman Filter)
 * EKF(Extend Kalman Filter)
 * UKF(Unscented Kalman Filter)
 
-### 粒子滤波 | PF(Particle Filtering)
+### 5.2 粒子滤波 | PF(Particle Filtering)
 
 
 ## 6.算法缓冲区 | algorithms buffer
@@ -204,10 +209,10 @@ Excellent Website Collection
 * NVIDIA JETSON系列开发板及RACE CAR教程网站：[JetsonHacks](https://www.jetsonhacks.com/)
 
 ## 2.综合型网站 | Comprehensive Web
-### Development Platform
-[Link](https://www.yangzhiping.com/info/blogger.html)
+* 机器人软硬件及其编程教程汇集：[创客智造](https://www.ncnynl.com/)
 
 ## 3.资源搜索型网站 | Resource Search Web
+
 
 **************************************************************************************************************************
 # 爱好 | Hobbies
