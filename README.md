@@ -2,7 +2,7 @@
 
 [头像图片]
 
-A (mobile) robot designer and  maker
+A (mobile) robot designer and  maker   
 E-mail: huang_zhipeng@foxmail.com   
 
 # 研究领域 | Field of Research
@@ -129,6 +129,14 @@ Document useful resources during project development
 ```markdown
 开发平台 | Development Platforms
 ROS
+RVIZ
+Gazabo
+V-REP
+Stage
+player
+
+Machine Learning: tensorflow, Caffe, Keras, PyTorch, and so on   
+
 
 开源库 | the Third-party Libraries
 Armadillo：C++下的Matlab替代品
@@ -151,11 +159,13 @@ NVIDIA Jetson Family: TK1, TX1, TX2, NANO, Xaiver
 Intel Family: Intel NUC, Galileo, Edison
 Raspberry Pi Series
 ODROID Series
-HUAWEI HAISI hikey970
+华为机器人开发板 | HUAWEI HAISI hikey970
 
 #### 低级处理器　｜　Low-level　Processors
 STM32 Series
 Arduino Series
+openCR
+
 
 ###  传感器 | Sensors
 #### 感知类　｜　Camera & Lidar
@@ -177,57 +187,93 @@ Trimble
 
 #### 定位类　｜　Location
 razor-imu-9dof
+Ublox GPS
 
+###  驱动及电机 | Actuators(Motors)
+DYNAMIXEL
+maxon motor
 
 ###  机器人平台 | Robot that Integrated Hardware and Software
+Mobile Robots:   
 Turtlebot1, Turtlebot2, Turtlebot3 
+HUSKY
+RACE CAR
 
+Robot Arm:   
+Dobot
+uArm
+UR5
 
 ###  其他硬件 | Others
 
 ```
 
-# 经典论文 | Excellent Papers I've Read
+# 经典文献 | Excellent Papers I've Read
 ## 规划与避障 | path planning and collision avoidance algorithms
 ```markdown
-1 paper
-2 paper
-[Link](url)
+1）动态窗 | DWA(Dynamic Window Approach)
+
+2）时变橡皮筋算法 | TEB(Timed-Elastic-Band)
+
+3)
+
 ```
 ## 控制算法 | control algorithms
 ```markdown
-introduction 
-[Link](url)
+1) 模型预测控制器 | MPC(Model Predictive Control)
+
+2)线性二次型调节器 | LQR(Linear Quadratic Regulator)
+
+3)滑模控制器 | SMC(sliding mode control)
+
+4)PID
+
 ```
 ## 感知算法 | perception algorithms
 ```markdown
-introduction 
-[Link](url)
+1)深度学习方向 | Deep Learning
+YOLO
+SSD
+
 ```
 
 ## 定位算法 | location algorithms
 ```markdown
-introduction 
-[Link](url)
+
+```
+
+##　滤波算法 | Filter algorithms　
+```markdown
+1)卡尔曼滤波 | KF(Kalman Filter)
+EKF(Extend Kalman Filter)
+UKF(Unscented Kalman Filter)
+
+2)粒子滤波 | PF(Particle Filtering)
+
+```
+
+## 算法缓冲区 | algorithms buffer
+```markdown
+
 ```
 
 # 优秀网站 | Excellent Web I've Seen
-introduction  
+Excellent Website Collection
 
-```markdown
-## 个人主页 | Person Main Pages 
+## 个人主页 | Personal Main Pages 
 [Brian2018](https://blog.csdn.net/libing403/article/details/89344476)[主要为机械臂和轨迹规划算法相关]
 
 
-## introduction opensource kit
+## 综合型网站 | Comprehensive Web
 yangzhiping's main page:[Link](https://www.yangzhiping.com/info/blogger.html)
 ### Development Platform
 [展示图片] 
 [Link](https://www.yangzhiping.com/info/blogger.html)
 
+## 资源搜索型网站 | Resource Search Web
+
 ### others
 some words
-```
 
 
 # 爱好 | Likes
