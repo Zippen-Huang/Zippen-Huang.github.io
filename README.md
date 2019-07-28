@@ -127,19 +127,17 @@ Document useful resources during project development
 
 ## 软件 | Software  
 ```markdown
-### 开发工具 | Development Kit
-
-
-### 开源软件 | the Third-party Platform
+开发平台 | Development Platforms
 ROS
+
+开源库 | the Third-party Libraries
 Armadillo：C++下的Matlab替代品
 Eigen3
 OMPL(Open Motion Planning Library)
-boost
+Boost
 opencv
 pcl
 matlab robotics toolbox
-
 
 ### 其他软件 | Others
 
@@ -160,14 +158,33 @@ STM32 Series
 Arduino Series
 
 ###  传感器 | Sensors
-#### 感知类　｜　Perception Sensors
+#### 感知类　｜　Camera & Lidar
 MicroSoft Kinect
 Intel RealSense
 ZED
+奥比中光 | Astra
 
+Velodyne
+Sick
+Ibeo
+Hokuyo
+Trimble
+思岚科技 | SLAMTEC
+速腾聚创
+禾赛科技
+北醒光子
+镭神智能
+
+#### 定位类　｜　Location
+razor-imu-9dof
+
+
+###  机器人平台 | Robot that Integrated Hardware and Software
+Turtlebot1, Turtlebot2, Turtlebot3 
 
 
 ###  其他硬件 | Others
+
 ```
 
 # 经典论文 | Excellent Papers I've Read
