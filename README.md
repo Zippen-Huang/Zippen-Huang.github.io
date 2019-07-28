@@ -2,12 +2,12 @@
 
 [头像图片]
 
-A (mobile) robot designer and maker      
-E-mail: huang_zhipeng@foxmail.com   
+-AM: A (mobile) robot designer and maker      
+-E-mail: huang_zhipeng@foxmail.com   
 
 # 研究领域 | Field of Research
-自动驾驶（融合感知与规划、自动控制） | self-driving system(integrated perception and planning,  motion control)    
-仿生与特种机器人 | biologically inspired and specialized robot design and control    
+-自动驾驶（融合感知与规划、自动控制） | self-driving system(integrated perception and planning,  motion control)    
+-仿生与特种机器人 | biologically inspired and specialized robot design and control    
 
 # 成果发表 | Publications
 
@@ -15,7 +15,6 @@ E-mail: huang_zhipeng@foxmail.com
 （in preparation）
 
 ## 专利 | patents
-```markdown
 [1] 一种增力机械手爪. (201620043599.1).
 [2] 一种可实用于内、外管道爬行机器人. (201521050698.4).
 [3] 一种新型机械臂. (201621174783.6).
@@ -25,8 +24,7 @@ E-mail: huang_zhipeng@foxmail.com
 [7] 基于视觉的二维码定位抓取机器人系统算法. (201910011866.5).
 [8] 一种多分裂高压导线断股修补辅助装置及其使用方法. (201910149941.4).
 [9] 一种应用C形腿的六足机器人动力特性分析方法. (201910300123.X).
-[10]基于SMA驱动方式的新型跳跃机器人. (2019103294229.8).
-```       
+[10]基于SMA驱动方式的新型跳跃机器人. (2019103294229.8).    
 
 # 项目经历 | Robot Projects Development
 Robot projects practice, recorded in chronological order.    
@@ -272,7 +270,7 @@ NVIDIA JETSON系列开发板及RACE CAR教程网站：[JetsonHacks](https://www.
 ## 资源搜索型网站 | Resource Search Web
 
 
-# 爱好 | Likes
+# 爱好 | Hobbies
 reading and sports
 
 
