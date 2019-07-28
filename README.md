@@ -125,7 +125,7 @@ Document useful resources during project development
 * MicroSoft Kinect
 * Intel RealSense
 * ZED
-* 奥比中光 | Astra
+* 奥比中光  Astra
 
 ##### 激光雷达传感器 | Lidar
 * Velodyne
