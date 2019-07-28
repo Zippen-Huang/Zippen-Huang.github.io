@@ -26,6 +26,7 @@
 [9] 一种应用C形腿的六足机器人动力特性分析方法. (201910300123.X).     
 [10]基于SMA驱动方式的新型跳跃机器人. (2019103294229.8).        
 
+**************************************************************************************************************************
 # 项目经历 | Robot Projects Development
 Robot projects practice, recorded in chronological order.    
 
@@ -51,7 +52,7 @@ Robot projects practice, recorded in chronological order.
 
 ## 5 基于手势控制的智能跟随物流车 | Intelligent Follow Logistics Vehicle    
 **简介 | Introduction**  (2016.10 - 2017.06)    
-&emsp;&emsp;项目主要研究设计兼具手势控制、智能跟随功能的大载重物流车。基于kinect采集人体姿态信息，将之转化为机器人运动控制信息，实现机器人智能跟随。 
+&emsp;&emsp;项目主要研究设计兼具手势控制、智能跟随功能的大载重物流车。基于kinect采集人体姿态信息，将之转化为机器人运动控制信息，实现机器人智能跟随。    
 &emsp;&emsp;The project designed large-load logistics vehicles with gesture control and intelligent following functions. Based on kinect camera, the human body posture information is collected and converted into robot motion control information to realize robot intelligent following.    
 
 ## 4 单电机螺旋式驱动机器人 | Single-motor Spiral-driven Robot    
@@ -75,6 +76,8 @@ Robot projects practice, recorded in chronological order.
 &emsp;&emsp;The project  designed a pipeline inspection robot that can be applied to the inner pipeline with active/passive deformation. The mechanism can actively adjust the peripheral radius of the robot, and the outer radius of the robot can be passively adjusted by the elastic component. It is symmetrical and modularized, and the detection instrument is installed at the front end and the rear end of the robot to synthesize a pipe crawling robot with good performance and extensibility.    
 [视频展示 | result show](http://v.youku.com/v_show/id_XMTI3OTE0MTk5Mg==.html)    
 
+**************************************************************************************************************************
+
 # 机器人项目积累 | Accumulation in the Process of Robot Development
 记录在项目开发过程中非常有用的资源   
 Document useful resources during project development    
@@ -89,7 +92,6 @@ Document useful resources during project development
 * player
 
 * Machine Learning: tensorflow, Caffe, Keras, PyTorch, and so on   
-
 
 ### 开源库 | the Third-party Libraries
 * Armadillo：C++下的Matlab替代品
@@ -158,6 +160,7 @@ Document useful resources during project development
 
 ###  其他硬件 | Others
 
+**************************************************************************************************************************
 
 # 经典文献 | Excellent Papers I've Read
 ## 1.规划与避障 | path planning and collision avoidance algorithms
@@ -192,7 +195,7 @@ Document useful resources during project development
 
 ## 6.算法缓冲区 | algorithms buffer
 
-
+**************************************************************************************************************************
 # 优秀网站 | Excellent Web I've Seen
 Excellent Website Collection
 
@@ -206,6 +209,6 @@ Excellent Website Collection
 
 ## 3.资源搜索型网站 | Resource Search Web
 
-
+**************************************************************************************************************************
 # 爱好 | Hobbies
 reading and sports
