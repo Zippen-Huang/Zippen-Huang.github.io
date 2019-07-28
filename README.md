@@ -2,7 +2,7 @@
 
 [头像图片]
 
-A (mobile) robot designer and  maker   
+A (mobile) robot designer and maker      
 E-mail: huang_zhipeng@foxmail.com   
 
 # 研究领域 | Field of Research
@@ -11,10 +11,10 @@ E-mail: huang_zhipeng@foxmail.com
 
 # 成果发表 | Publications
 
-## 论文 | papers：
-in preparation
+## 论文 | papers
+（in preparation）
 
-## 专利 | patents:
+## 专利 | patents
 ```markdown
 [1] 一种增力机械手爪. (201620043599.1).
 [2] 一种可实用于内、外管道爬行机器人. (201521050698.4).
@@ -118,7 +118,7 @@ Robot projects practice, recorded in chronological order.
     项目主要设计一款能够适用于内管道的可主/被动变形的管道爬行机器人，可通过机构主动调节机器人外围半径，亦可通过弹性元件被动调节机器人外围半径。设计前后对称、总共三（多）节模块化机体，并在机器人前端与后端安装探伤检测仪器，合成运动性能好、扩展性强的管道爬行机器人。
     The project  designed a pipeline inspection robot that can be applied to the inner pipeline with active/passive deformation. The mechanism can actively adjust the peripheral radius of the robot, and the outer radius of the robot can be passively adjusted by the elastic component. It is symmetrical and modularized, and the detection instrument is installed at the front end and the rear end of the robot to synthesize a pipe crawling robot with good performance and extensibility.
 [展示图片] 
-[视频展示 | result show](http://v.youku.com/v_show/id_XMTI3OTE0MTk5Mg==.html)
+[视频展示 | result show]http://v.youku.com/v_show/id_XMTI3OTE0MTk5Mg==.html
 ```
 
 # 机器人项目积累 | Accumulation in the Process of Robot Development
@@ -220,7 +220,7 @@ UR5
 ```
 ## 控制算法 | control algorithms
 ```markdown
-1) 模型预测控制器 | MPC(Model Predictive Control)
+1)模型预测控制器 | MPC(Model Predictive Control)
 
 2)线性二次型调节器 | LQR(Linear Quadratic Regulator)
 
@@ -242,7 +242,7 @@ SSD
 
 ```
 
-##　滤波算法 | Filter algorithms　
+## 滤波算法 | Filter algorithms　
 ```markdown
 1)卡尔曼滤波 | KF(Kalman Filter)
 EKF(Extend Kalman Filter)
@@ -261,19 +261,15 @@ UKF(Unscented Kalman Filter)
 Excellent Website Collection
 
 ## 个人主页 | Personal Main Pages 
-[Brian2018](https://blog.csdn.net/libing403/article/details/89344476)[主要为机械臂和轨迹规划算法相关]
+机械臂和轨迹规划算法相关：[Brian2018](https://blog.csdn.net/libing403/article/details/89344476)
+NVIDIA JETSON系列开发板及RACE CAR教程网站：[JetsonHacks](https://www.jetsonhacks.com/)
 
 
 ## 综合型网站 | Comprehensive Web
-yangzhiping's main page:[Link](https://www.yangzhiping.com/info/blogger.html)
 ### Development Platform
-[展示图片] 
 [Link](https://www.yangzhiping.com/info/blogger.html)
 
 ## 资源搜索型网站 | Resource Search Web
-
-### others
-some words
 
 
 # 爱好 | Likes
