@@ -2,12 +2,12 @@
 
 [头像图片]
 
--AM: A (mobile) robot designer and maker      
--E-mail: huang_zhipeng@foxmail.com   
+* AM: A (mobile) robot designer and maker      
+* E-mail: huang_zhipeng@foxmail.com   
 
 # 研究领域 | Field of Research
--自动驾驶（融合感知与规划、自动控制） | self-driving system(integrated perception and planning,  motion control)    
--仿生与特种机器人 | biologically inspired and specialized robot design and control    
+- 自动驾驶（融合感知与规划、自动控制） | self-driving system(integrated perception and planning,  motion control)    
+- 仿生与特种机器人 | biologically inspired and specialized robot design and control    
 
 # 成果发表 | Publications
 
