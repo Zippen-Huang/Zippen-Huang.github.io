@@ -6,8 +6,8 @@
 * E-mail: huang_zhipeng@foxmail.com   
 
 # 研究领域 | Field of Research
-* 自动驾驶（融合感知与规划、自动控制） | self-driving system(integrated perception and planning,  motion control)    
-* 仿生与特种机器人 | biologically inspired and specialized robot design and control    
+ 自动驾驶（融合感知与规划、自动控制） | self-driving system(integrated perception and planning,  motion control)    
+ 仿生与特种机器人 | biologically inspired and specialized robot design and control    
 
 # 成果发表 | Publications
 
@@ -209,6 +209,18 @@ Excellent Website Collection
 
 # 爱好 | Hobbies
 reading and sports
+
+
+1. abc
+2. edf
+3. ghj
+ * rrii
+ * rrmm
+   * dfg
+   * fg
+   
+
+ 
 
 
 
