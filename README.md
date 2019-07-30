@@ -69,7 +69,6 @@ Robot projects practice, recorded in chronological order.
 **简介 | Introduction**  (2015.08 - 2015.12)    
 &emsp;&emsp;项目主要设计一种高速、低惯量、八连杆单自由度仿生腿，以此作为机器人后腿；采用六连杆机构设计机器人前腿，基于此设计仿生腿的仿生四足机器人  
 &emsp;&emsp;The project designed a high-speed, low-inertia, eight-link single-degree-of-freedom bionic leg, which is used as the rear leg of the robot. The six-link mechanism is used to design the front leg of the robot. Based on this, the bionic quadruped robot with bionic legs is designed.   
-<div align=center><src="https://github.com/Zippen-Huang/Zippen-Huang.github.io/blob/master/01-proj_images/%E6%88%98%E7%8B%BC.jpg"/></div>   
  ![image](https://github.com/Zippen-Huang/Zippen-Huang.github.io/blob/master/01-proj_images/%E6%88%98%E7%8B%BC.jpg)   
 
 ## 1 管道检测机器人 | Pipe Inspection Robot     
