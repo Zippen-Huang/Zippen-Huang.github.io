@@ -1,7 +1,5 @@
 # 个人信息 | Zippen's Info    
 
-[头像图片]
-
 * AM: a (mobile) robot designer and maker      
 * E-mail: huang_zhipeng@foxmail.com   
 
