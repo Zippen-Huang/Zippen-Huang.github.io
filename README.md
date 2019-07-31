@@ -32,7 +32,7 @@ Robot projects practice, recorded in chronological order.
 **简介 | Introduction**  (2017.11 - 2020.06)    
 &emsp;&emsp;项目主要研制面向室内外半结构化环境下的中型自主移动机器人软硬件系统，旨在为物流派送、园区巡检、市区清洁等应用场景提供智能移动平台理论和技术支撑。在基于ROS机器人系统平台，集成感知系统、定位系统、规划系统与控制系统，实现给定目标点的情况下，机器人能够在室内外自主导航至目的地。    
 &emsp;&emsp;The project develops a medium-sized autonomous mobile robot software and hardware system for indoor and outdoor semi-structured environments, aiming to provide intelligent mobile platform theory and technical support for application scenarios such as logistics dispatch, park inspection and urban cleaning. Based on the ROS(robot operating system) platform, integrated perception system, location system, planning and control system, the robot can navigate to the destination autonomously given the target point.  
- ![](https://github.com/Zippen-Huang/Zippen-Huang.github.io/blob/master/01-proj_images/%E6%99%BA%E8%83%BD%E7%89%A9%E6%B5%81%E8%BD%A6.jpg)   
+<img align="center" src="https://github.com/Zippen-Huang/Zippen-Huang.github.io/blob/master/01-proj_images/%E6%99%BA%E8%83%BD%E7%89%A9%E6%B5%81%E8%BD%A6.jpg" > ![](https://github.com/Zippen-Huang/Zippen-Huang.github.io/blob/master/01-proj_images/%E6%99%BA%E8%83%BD%E7%89%A9%E6%B5%81%E8%BD%A6.jpg)   
 
 ## 8 基于ROS的“空地协同”机器人系统 | ROS-based "Air-ground Coordination" Robot System     
 **简介 | Introduction**  (2019.04 - 2019.05)    
