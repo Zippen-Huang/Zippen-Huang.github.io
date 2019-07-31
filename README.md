@@ -2,7 +2,7 @@
 
 [头像图片]
 
-* AM: A (mobile) robot designer and maker      
+* AM: a (mobile) robot designer and maker      
 * E-mail: huang_zhipeng@foxmail.com   
 
 # 研究领域 | Field of Research
