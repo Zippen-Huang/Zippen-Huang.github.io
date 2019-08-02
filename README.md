@@ -2,6 +2,7 @@
 
 * AM: a (mobile) robot designer and maker      
 * E-mail: huang_zhipeng@foxmail.com   
+![](http://www.baidu.com/img/bdlogo.gif)     
 
 # 研究领域 | Field of Research
  自动驾驶（融合感知与规划、自动控制） | self-driving system(integrated perception and planning,  motion control)    
