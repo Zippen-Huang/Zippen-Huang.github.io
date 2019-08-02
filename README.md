@@ -2,7 +2,7 @@
 
 * AM: a (mobile) robot designer and maker      
 * E-mail: huang_zhipeng@foxmail.com   
-* GITHUB: https://github.com/Zippen-Huang   
+* GITHUB: [Zippen-Huang](https://github.com/Zippen-Huang)     
 
 # 研究领域 | Field of Research
  自动驾驶（融合感知与规划、自动控制） | self-driving system(integrated perception and planning,  motion control)    
@@ -167,6 +167,10 @@ Document useful resources during project development
 * uArm
 * UR5
 
+#### Robot Arm  
+* DJI AUV
+* PixHawk
+
 ###  2.1.5 其他硬件 | Others
 
 **************************************************************************************************************************
@@ -218,6 +222,8 @@ Excellent Website Collection
 
 ## 2.综合型网站 | Comprehensive Web
 * 机器人软硬件及其编程教程汇集：[创客智造](https://www.ncnynl.com/)
+* 各类软件编程教程网站（程序员的天地）：[菜鸟教程 | runoob](https://www.runoob.com/)
+* 
 
 ## 3.资源搜索型网站 | Resource Search Web
 
@@ -225,3 +231,6 @@ Excellent Website Collection
 **************************************************************************************************************************
 # 爱好 | Hobbies
 reading and sports
+
+# 感谢 | Thanks
+感谢一路上的伙伴们！
