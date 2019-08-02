@@ -222,7 +222,7 @@ Excellent Website Collection
 
 ## 2.综合型网站 | Comprehensive Web
 * 机器人软硬件及其编程教程汇集：[创客智造](https://www.ncnynl.com/)
-* 各类软件编程教程网站（程序员的天地）：[菜鸟教程 | runoob](https://www.runoob.com/)
+* 各类软件编程教程网站（程序员的天地）：[菜鸟教程 runoob](https://www.runoob.com/)
 * 
 
 ## 3.资源搜索型网站 | Resource Search Web
