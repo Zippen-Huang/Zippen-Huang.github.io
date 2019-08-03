@@ -92,23 +92,36 @@ Document useful resources during project development
 
 ## 1 软件 | Software  
 ### 1.1 开发平台 | Development Platforms
-* ROS
+* [ROS](http://wiki.ros.org/)[机器人操作系统]
 * RVIZ
 * Gazabo
 * V-REP
-* Stage
+* [Stage](https://github.com/rtv/Stage)[移动机器人模拟器]
 * player
 
+----------------------------------------------------------------------------------------------------------------------------------
+* [Qt](http://qt-project.org/)[跨平台的应用程序和用户界面框架]
 * Machine Learning: tensorflow, Caffe, Keras, PyTorch, and so on   
 
 ### 1.2 开源库 | the Third-party Libraries
-* Armadillo：C++下的Matlab替代品
-* Eigen3
+* [Armadillo](http://arma.sourceforge.net/)[高质量的C++线性代数库，速度和易用性做到了很好的平衡,C++下的Matlab替代品]
+* [Eigen3](http://eigen.tuxfamily.org/)[高级C++模板头文件库，包括线性代数，矩阵，向量操作，数值解决和其他相关的算法]
+* [blaze](https://code.google.com/p/blaze-lib/)[高性能的C++数学库，用于密集和稀疏算法]
+* [ceres-solver](http://ceres-solver.org/)[来自谷歌的C++库，用于建模和解决大型复杂非线性最小平方问题]
+----------------------------------------------------------------------------------------------------------------------------------
 * OMPL(Open Motion Planning Library)
-* Boost
-* opencv
+* [RobWork](http://www.robwork.dk/jrobwork/)[一组C++库的集合，用于机器人系统的仿真和控制]
+* [Robotics Library (RL)](http://www.roboticslibrary.org/)[一个独立的C++库，包括机器人动力学，运动规划和控制,偏向工业机器人]
+* [MRPT](http://www.mrpt.org/)[移动机器人编程工具包]
+* [MOOS-IvP](https://oceanai.mit.edu/moos-ivp/pmwiki/pmwiki.php?n=Main.HomePage)[一组开源C++模块，提供机器人平台的自主权，尤其是自主的海洋车辆]
+* [OpenCV](https://github.com/opencv/opencv)[开源计算机视觉库]
 * pcl
 * matlab robotics toolbox
+----------------------------------------------------------------------------------------------------------------------------------
+* Boost
+
+
+
 
 ### 1.3 其他软件 | Others
 
@@ -167,7 +180,7 @@ Document useful resources during project development
 * uArm
 * UR5
 
-#### Robot Arm  
+#### UAV  
 * DJI AUV
 * PixHawk
 
@@ -223,10 +236,13 @@ Excellent Website Collection
 ## 2.综合型网站 | Comprehensive Web
 * 机器人软硬件及其编程教程汇集：[创客智造](https://www.ncnynl.com/)
 * 各类软件编程教程网站（程序员的天地）：[菜鸟教程 runoob](https://www.runoob.com/)
-* 
+--------------------------------------------------------------------------------------------------------------------------
+* 国外数据结构、计算机几何及各类软件编程教程：[GeekforGeeks](https://www.geeksforgeeks.org/)
 
 ## 3.资源搜索型网站 | Resource Search Web
-
+* 各类电子书籍下载网站：[Library Genesis](http://gen.lib.rus.ec/)
+* 部分论文及其各类电子书下载网址：[arxiv](https://arxiv.org/)[备注：为了防止自己的idea在论文被收录前被别人剽窃，将预稿上传到arvix作为预收录，以证明论文原创性]
+* 文献小镇（几乎能下载到所有文献）：[sci-hub](http://www.sci-hub.se/)
 
 **************************************************************************************************************************
 # 爱好 | Hobbies
