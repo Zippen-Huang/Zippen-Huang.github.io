@@ -115,7 +115,7 @@ Document useful resources during project development
 * [MRPT](http://www.mrpt.org/)[移动机器人编程工具包]
 * [MOOS-IvP](https://oceanai.mit.edu/moos-ivp/pmwiki/pmwiki.php?n=Main.HomePage)[一组开源C++模块，提供机器人平台的自主权，尤其是自主的海洋车辆]
 * [OpenCV](https://github.com/opencv/opencv)[开源计算机视觉库]
-* pcl
+* [PCL](http://pointclouds.org/)[点云库是一个独立的，大规模的开放项目，用于2D/3D图像和点云处理]
 * matlab robotics toolbox
 ----------------------------------------------------------------------------------------------------------------------------------
 * Boost
