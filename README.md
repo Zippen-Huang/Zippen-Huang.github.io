@@ -232,6 +232,8 @@ Excellent Website Collection
 ## 1.个人主页 | Personal Main Pages 
 * 机械臂和轨迹规划算法相关：[Brian2018](https://blog.csdn.net/libing403/article/details/89344476)    
 * NVIDIA JETSON系列开发板及RACE CAR教程网站：[JetsonHacks](https://www.jetsonhacks.com/)
+* 机器人算法汇集-超级全：[PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
+* 
 
 ## 2.综合型网站 | Comprehensive Web
 * 机器人软硬件及其编程教程汇集：[创客智造](https://www.ncnynl.com/)
