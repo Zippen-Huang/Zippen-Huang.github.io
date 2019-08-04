@@ -47,7 +47,7 @@ Robot projects practice, recorded in chronological order.
 &emsp;&emsp;The project designed an omnidirectional mobile platform equipped with a four-degree-of-freedom manipulator, and identifies the spatial pose of the object with the QR code through the ZED stereo camera to complete the moving, positioning and grasping operation of the target.    
  ![](01-proj_images/移动定位抓取机器人.jpg)   
 
-## 6 六足无人平台动力分析与电源管理 | Intelligent Follow Logistics Vehicle    
+## 6 六足无人平台动力分析与电源管理 | Dynamic Analysis and Power Management of Hexapod Unmanned Platform    
 **简介 | Introduction**  (2017.09 - 2018.04)    
 &emsp;&emsp;项目主要研究六足机器人。主要负责机器人动力特性分析，并设计电源管理系统。    
 &emsp;&emsp;The project focused on hexapod robots. Mainly responsible for the analysis of robot dynamic characteristics and design of power management system.    
