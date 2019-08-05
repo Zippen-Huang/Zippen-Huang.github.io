@@ -190,6 +190,7 @@ Document useful resources during project development
 
 # 经典文献 | Excellent Papers I've Read
 ## 1.规划与避障 | path planning and collision avoidance algorithms
+** 1.0 几何法 | Geometric Modele**    
 ### 1.1 动态窗 | DWA(Dynamic Window Approach)
 * Fox D, Burgard W, Thrun S. The dynamic window approach to collision avoidance[J]. IEEE Robotics & Automation Magazine, 1997, 4(1): 23-33.   
 * Brock O, Khatib O. High-speed navigation using the global dynamic window approach[C]//Proceedings 1999 IEEE International Conference on Robotics and Automation (Cat. No. 99CH36288C). IEEE, 1999, 1: 341-346.   
@@ -198,6 +199,20 @@ Document useful resources during project development
 * Rösmann C, Hoffmann F, Bertram T. Integrated online trajectory planning and optimization in distinctive topologies[J]. Robotics and Autonomous Systems, 2017, 88: 142-153.   
 * Rösmann C, Hoffmann F, Bertram T. Kinodynamic trajectory optimization and control for car-like robots[C]//2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2017: 5681-5686.   
 * 算法代码：[teb_local_planner](http://wiki.ros.org/teb_local_planner)  
+
+### 1.3 速度避障算法 | VO(Velociety Obstacles)
+* Martinez-Gomez L, Fraichard T. Collision avoidance in dynamic environments: an ics-based solution and its comparative evaluation[C]//2009 IEEE International Conference on Robotics and Automation. IEEE, 2009: 100-105.
+* Fiorini P, Shiller Z. Motion planning in dynamic environments using velocity obstacles[J]. The International Journal of Robotics Research, 1998, 17(7): 760-772.
+* Shiller Z, Large F, Sekhavat S. Motion planning in dynamic environments: Obstacles moving along arbitrary trajectories[C]//Proceedings 2001 ICRA. IEEE International Conference on Robotics and Automation (Cat. No. 01CH37164). IEEE, 2001, 4: 3716-3721.
+
+**3.0 概率法 | Sampling-based Algorithms**   
+### 3.1 随机路线图法 | RPM(Random Probabilistic Map)   
+
+### 3.2 快速扩展随机树 | RRT(Rapidly-exploring Random Tree)   
+
+--------------------------
+https://www.coursera.org/learn/robotics-motion-planning/home/week/3  宾夕法尼亚运动规划   
+-----------------------
 
 ## 2.控制算法 | control algorithms
 ### 2.1 模型预测控制器 | MPC(Model Predictive Control)
@@ -212,6 +227,10 @@ Document useful resources during project development
 ### 3.1 深度学习方向 | Deep Learning
 * YOLO
 * SSD
+* CNN
+* DNN
+* RNN
+* 
 
 ## 4.定位算法 | location algorithms
 
@@ -223,7 +242,14 @@ Document useful resources during project development
 ### 5.2 粒子滤波 | PF(Particle Filtering)
 
 
-## 6.算法缓冲区 | algorithms buffer
+## 6.算法缓冲区 | Algorithms Buffer
+### 6.1 优化算法分类 | Optimization Methods
+* 凸优化 | Convex Optimization
+
+* 数值优化 | Numerical Optimization
+
+* 图优化 | Graph Optimization
+
 
 **************************************************************************************************************************
 # 优秀网站 | Excellent Web I've Seen
