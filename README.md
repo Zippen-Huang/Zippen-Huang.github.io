@@ -248,11 +248,11 @@ https://www.coursera.org/learn/robotics-motion-planning/home/week/3  宾夕法�
 
 ## 6.算法缓冲区 | Algorithms Buffer
 ### 6.1 优化算法分类 | Optimization Methods
-* 凸优化 | Convex Optimization
+* 凸优化 Convex Optimization
 
-* 数值优化 | Numerical Optimization
+* 数值优化 Numerical Optimization
 
-* 图优化 | Graph Optimization
+* 图优化 Graph Optimization
 
 
 **************************************************************************************************************************
@@ -263,12 +263,12 @@ Excellent Website Collection
 * 机械臂和轨迹规划算法相关：[Brian2018](https://blog.csdn.net/libing403/article/details/89344476)    
 * NVIDIA JETSON系列开发板及RACE CAR教程网站：[JetsonHacks](https://www.jetsonhacks.com/)
 * 机器人算法汇集-超级全：[PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
-* 
+* 机器人大师之路指点迷津：[YY硕](http://www.zhihu.com/people/yyss2037)
 
 ## 2.综合型网站 | Comprehensive Web
 * 机器人软硬件及其编程教程汇集：[创客智造](https://www.ncnynl.com/)
 * 各类软件编程教程网站（程序员的天地）：[菜鸟教程 runoob](https://www.runoob.com/)
---------------------------------------------------------------------------------------------------------------------------
+-----
 * 国外数据结构、计算机几何及各类软件编程教程：[GeekforGeeks](https://www.geeksforgeeks.org/)
 
 ## 3.资源搜索型网站 | Resource Search Web
