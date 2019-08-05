@@ -189,8 +189,8 @@ Document useful resources during project development
 **************************************************************************************************************************
 
 # 经典文献 | Excellent Papers I've Read
-## 1.规划与避障 | path planning and collision avoidance algorithms
-** 1.0 几何法 | Geometric Modele**    
+## 1.规划与避障 | path planning and collision avoidance algorithms        
+**1.0 几何法 | Geometric Modele**          
 ### 1.1 动态窗 | DWA(Dynamic Window Approach)
 * Fox D, Burgard W, Thrun S. The dynamic window approach to collision avoidance[J]. IEEE Robotics & Automation Magazine, 1997, 4(1): 23-33.   
 * Brock O, Khatib O. High-speed navigation using the global dynamic window approach[C]//Proceedings 1999 IEEE International Conference on Robotics and Automation (Cat. No. 99CH36288C). IEEE, 1999, 1: 341-346.   
@@ -205,10 +205,14 @@ Document useful resources during project development
 * Fiorini P, Shiller Z. Motion planning in dynamic environments using velocity obstacles[J]. The International Journal of Robotics Research, 1998, 17(7): 760-772.
 * Shiller Z, Large F, Sekhavat S. Motion planning in dynamic environments: Obstacles moving along arbitrary trajectories[C]//Proceedings 2001 ICRA. IEEE International Conference on Robotics and Automation (Cat. No. 01CH37164). IEEE, 2001, 4: 3716-3721.
 
-**3.0 概率法 | Sampling-based Algorithms**   
-### 3.1 随机路线图法 | RPM(Random Probabilistic Map)   
+**3.0 概率法 | Sampling-based Algorithms**        
+### 3.1 随机路线图法 | RPM(Random Probabilistic Map)       
+* 12345
+* 3445
 
 ### 3.2 快速扩展随机树 | RRT(Rapidly-exploring Random Tree)   
+* 1234
+* 3456
 
 --------------------------
 https://www.coursera.org/learn/robotics-motion-planning/home/week/3  宾夕法尼亚运动规划   
