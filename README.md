@@ -295,15 +295,15 @@ Excellent Website Collection
 * 谷歌无人车 Waymo：[Google self-driving car project](https://waymo.com/)
 * 英伟达无人驾驶平台：[NVIDIA-DGX-1](http://www.nvidia.com/object/drive-px.html)
 * Auro L4自动驾驶：[Auro robotics](http://www.auro.ai/)
-* The Autoware Foundation[link](https://github.com/autowarefoundation)
-* Berkeley Autonomous Race Car[link](http://www.barc-project.com/about-1/)
+* The Autoware Foundation:[link](https://github.com/autowarefoundation)
+* Berkeley Autonomous Race Car:[link](http://www.barc-project.com/about-1/)
 
 ## 3.资源搜索型网站 | Resource Search Web
 * 各类电子书籍下载网站：[Library Genesis](http://gen.lib.rus.ec/)
 * 部分论文及其各类电子书下载网址：[arxiv](https://arxiv.org/)[备注：为了防止自己的idea在论文被收录前被别人剽窃，将预稿上传到arvix作为预收录，以证明论文原创性]
 * 文献小镇（几乎能下载到所有文献）：[sci-hub](http://www.sci-hub.se/)
-* 国外硕博论文下载：[地址1](国外硕博论文查询)和[地址2](http://www.dart-europe.eu/About/info.php)
-* 三维模型下载：[地址](https://grabcad.com/library)
+* 国外硕博论文下载：[link1](国外硕博论文查询)和[link2](http://www.dart-europe.eu/About/info.php)
+* 三维模型下载：[link](https://grabcad.com/library)
 
 **************************************************************************************************************************
 # 爱好 | Hobbies
