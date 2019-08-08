@@ -277,8 +277,8 @@ Excellent Website Collection
 
 
 ## 2.综合型网站 | Comprehensive Web
-* 机器人软硬件及其编程教程汇集：[创客智造](https://www.ncnynl.com/)
-* 各类软件编程教程网站（程序员的天地）：[菜鸟教程 runoob](https://www.runoob.com/)
+* 机器人软硬件及其编程教程汇集：[创客智造](https://www.ncnynl.com/)   
+* 各类软件编程教程网站（程序员的天地):[菜鸟教程 runoob](https://www.runoob.com/)
 * 国外数据结构、计算机几何及各类软件编程教程：[GeekforGeeks](https://www.geeksforgeeks.org/)
 * 人工智能、机器学习、自动驾驶等技术类综合型资料：[Intro to Artificial Intelligence](https://medium.com/intro-to-artificial-intelligence)
 * 慕尼黑工大 凤凰机器人:[TUM Phoenix Robotics](http://www.phoenix.tum.de/index.php?id=5)[无人机与智能移动机器人]
