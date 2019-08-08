@@ -93,6 +93,7 @@ Document useful resources during project development
 ## 1 软件 | Software  
 ### 1.1 开发平台 | Development Platforms
 * [ROS](http://wiki.ros.org/)[机器人操作系统]
+* [Apollo](http://apollo.auto/)[国内领先开源无人驾驶系统]
 * RVIZ
 * Gazabo
 * V-REP
@@ -116,6 +117,7 @@ Document useful resources during project development
 * [MOOS-IvP](https://oceanai.mit.edu/moos-ivp/pmwiki/pmwiki.php?n=Main.HomePage)[一组开源C++模块，提供机器人平台的自主权，尤其是自主的海洋车辆]
 * [OpenCV](https://github.com/opencv/opencv)[开源计算机视觉库]
 * [PCL](http://pointclouds.org/)[点云库是一个独立的，大规模的开放项目，用于2D/3D图像和点云处理]
+* [V4R (Vision for Robotics) library](https://rgit.acin.tuwien.ac.at/v4r/v4r_ros_wrappers/blob/master/Tutorial.md)[视觉建模与识别、跟踪，支持ROS]
 * matlab robotics toolbox
 ----------------------------------------------------------------------------------------------------------------------------------
 * Boost
@@ -262,19 +264,33 @@ Excellent Website Collection
 ## 1.个人主页 | Personal Main Pages 
 * 机械臂和轨迹规划算法相关：[Brian2018](https://blog.csdn.net/libing403/article/details/89344476)    
 * NVIDIA JETSON系列开发板及RACE CAR教程网站：[JetsonHacks](https://www.jetsonhacks.com/)
-* 机器人算法汇集-超级全：[PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
+* 机器人算法汇集-超级全：[PythonRobotics by AtsushiSakai](https://github.com/AtsushiSakai/PythonRobotics)
 * 机器人大师之路指点迷津：[YY硕](http://www.zhihu.com/people/yyss2037)
+* ROS开发实践大神：[古月居](http://www.guyuehome.com/) 和 [R. PATRICK GOEBEL](https://robohub.org/author/patrick-goebel/)
+* 树莓派自动小车（Donkey Car）开发经历记录：[SHIROKU](https://shiroku.net/)
+* 深度学习相关实践经历：[JK Jung's blog](https://jkjung-avt.github.io/)
+* 机器人、游戏开发等计算机相关资料：[Adrian Boeing](http://adrianboeing.blogspot.com/search/label/robotics)
+* 做自动驾驶的哥们儿github：[Peter Christiansen](https://github.com/PeteHeine?tab=repositories)
+* 罗马的一位机器人大神博客：[The Raffaello's robotics blog](https://rnext.it/)[邮箱：raffaello@rnext.it]
+* 详解制作donkeycar过程的团队：[donkeycar project](https://robocaresslingen.github.io/BookDownDocu/index.html#how-to-join-us)和[github](https://github.com/RoboCarEsslingen)
+* 自主避障主题:[obstacle-avoidance](https://github.com/topics/obstacle-avoidance)
+
 
 ## 2.综合型网站 | Comprehensive Web
 * 机器人软硬件及其编程教程汇集：[创客智造](https://www.ncnynl.com/)
 * 各类软件编程教程网站（程序员的天地）：[菜鸟教程 runoob](https://www.runoob.com/)
------
 * 国外数据结构、计算机几何及各类软件编程教程：[GeekforGeeks](https://www.geeksforgeeks.org/)
+* 人工智能、机器学习、自动驾驶等技术类综合型资料：[Intro to Artificial Intelligence](https://medium.com/intro-to-artificial-intelligence)
+* 慕尼黑工大 凤凰机器人:[TUM Phoenix Robotics](http://www.phoenix.tum.de/index.php?id=5)[无人机与智能移动机器人]
+* clearpathrobotics机器人产品化团队:[clearpathrobotics](https://github.com/clearpathrobotics?page=6)
+
 
 ## 3.资源搜索型网站 | Resource Search Web
 * 各类电子书籍下载网站：[Library Genesis](http://gen.lib.rus.ec/)
 * 部分论文及其各类电子书下载网址：[arxiv](https://arxiv.org/)[备注：为了防止自己的idea在论文被收录前被别人剽窃，将预稿上传到arvix作为预收录，以证明论文原创性]
 * 文献小镇（几乎能下载到所有文献）：[sci-hub](http://www.sci-hub.se/)
+* 国外硕博论文下载：[地址1](国外硕博论文查询)和[地址2](http://www.dart-europe.eu/About/info.php)
+* 三维模型下载：[地址](https://grabcad.com/library)
 
 **************************************************************************************************************************
 # 爱好 | Hobbies
