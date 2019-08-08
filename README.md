@@ -94,6 +94,7 @@ Document useful resources during project development
 ### 1.1 开发平台 | Development Platforms
 * [ROS](http://wiki.ros.org/)[机器人操作系统]
 * [Apollo](http://apollo.auto/)[国内领先开源无人驾驶系统]
+* [Autoware](https://github.com/autowarefoundation/autoware) --中文简介:[基于ROS的Most Stars开源代码汇总（自动驾驶汽车+RGBDSLAMv2+ROS2+人识别与跟踪等](http://www.voidcn.com/article/p-srkfvcig-nh.html)
 * RVIZ
 * Gazabo
 * V-REP
@@ -108,7 +109,8 @@ Document useful resources during project development
 * [Armadillo](http://arma.sourceforge.net/)[高质量的C++线性代数库，速度和易用性做到了很好的平衡,C++下的Matlab替代品]
 * [Eigen3](http://eigen.tuxfamily.org/)[高级C++模板头文件库，包括线性代数，矩阵，向量操作，数值解决和其他相关的算法]
 * [blaze](https://code.google.com/p/blaze-lib/)[高性能的C++数学库，用于密集和稀疏算法]
-* [ceres-solver](http://ceres-solver.org/)[来自谷歌的C++库，用于建模和解决大型复杂非线性最小平方问题]
+* [ceres-solver](http://ceres-solver.org/)[来自谷歌的C++库，用于建模和解决大型复杂非线性最小平方问题]   
+
 ----------------------------------------------------------------------------------------------------------------------------------
 * OMPL(Open Motion Planning Library)
 * [RobWork](http://www.robwork.dk/jrobwork/)[一组C++库的集合，用于机器人系统的仿真和控制]
@@ -118,7 +120,9 @@ Document useful resources during project development
 * [OpenCV](https://github.com/opencv/opencv)[开源计算机视觉库]
 * [PCL](http://pointclouds.org/)[点云库是一个独立的，大规模的开放项目，用于2D/3D图像和点云处理]
 * [V4R (Vision for Robotics) library](https://rgit.acin.tuwien.ac.at/v4r/v4r_ros_wrappers/blob/master/Tutorial.md)[视觉建模与识别、跟踪，支持ROS]
-* matlab robotics toolbox
+* [Lightweight Communications and Marshalling (LCM).]( https://lcm-proj.github.io/)[轻量级通信系统，和ROS相似，]
+* matlab robotics toolbox    
+
 ----------------------------------------------------------------------------------------------------------------------------------
 * Boost
 
@@ -274,6 +278,9 @@ Excellent Website Collection
 * 罗马的一位机器人大神博客：[The Raffaello's robotics blog](https://rnext.it/)[邮箱：raffaello@rnext.it]
 * 详解制作donkeycar过程的团队：[donkeycar project](https://robocaresslingen.github.io/BookDownDocu/index.html#how-to-join-us)和[github](https://github.com/RoboCarEsslingen)
 * 自主避障主题:[obstacle-avoidance](https://github.com/topics/obstacle-avoidance)
+* 简单路径规划博客：[Andy G's Blog](https://gieseanw.wordpress.com/)
+* 自动驾驶、深度学习博客：[阿贵](https://www.zhihu.com/people/a-gui-7/columns)
+* 
 
 
 ## 2.综合型网站 | Comprehensive Web
@@ -283,7 +290,13 @@ Excellent Website Collection
 * 人工智能、机器学习、自动驾驶等技术类综合型资料：[Intro to Artificial Intelligence](https://medium.com/intro-to-artificial-intelligence)
 * 慕尼黑工大 凤凰机器人:[TUM Phoenix Robotics](http://www.phoenix.tum.de/index.php?id=5)[无人机与智能移动机器人]
 * clearpathrobotics机器人产品化团队:[clearpathrobotics](https://github.com/clearpathrobotics?page=6)
-
+* CMU无人车：[Team Taran Racing from Carnegie Mellon University](http://www.tartanracing.org/)
+* 斯坦福无人车：[Stanford Racing from Stanford University](http://cs.stanford.edu/group/roadrunner/)
+* 谷歌无人车 Waymo：[Google self-driving car project](https://waymo.com/)
+* 英伟达无人驾驶平台：[NVIDIA-DGX-1](http://www.nvidia.com/object/drive-px.html)
+* Auro L4自动驾驶：[Auro robotics](http://www.auro.ai/)
+* The Autoware Foundation[link](https://github.com/autowarefoundation)
+* Berkeley Autonomous Race Car[link](http://www.barc-project.com/about-1/)
 
 ## 3.资源搜索型网站 | Resource Search Web
 * 各类电子书籍下载网站：[Library Genesis](http://gen.lib.rus.ec/)
