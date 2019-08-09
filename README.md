@@ -97,9 +97,15 @@ Document useful resources during project development
 * [Autoware](https://github.com/autowarefoundation/autoware) --中文简介:[基于ROS的Most Stars开源代码汇总（自动驾驶汽车+RGBDSLAMv2+ROS2+人识别与跟踪等](http://www.voidcn.com/article/p-srkfvcig-nh.html)
 * RVIZ
 * Gazabo
-* V-REP
+* [V-REP](http://www.coppeliarobotics.com/)[机器人模拟器]
 * [Stage](https://github.com/rtv/Stage)[移动机器人模拟器]
 * player
+* [Carmen](http://carmen.sourceforge.net/)CARMEN is an open-source collection of software for mobile robot control. CARMEN is modular software designed to provide basic navigation primitives including: base and sensor control, logging, obstacle avoidance, localization, path planning, and mapping.
+* [Peekabot](http://www.peekabot.org/)Peekabot is a real-time, networked 3D visualization tool for robotics, written in C++. Its purpose is to simplify the visualization needs faced by a roboticist daily.
+* [YARP](http://www.yarp.it/)Yet Another Robot Platform.
+* [Webots](https://cyberbotics.com/)Webots is a development environment used to model, program and simulate mobile robots.
+* [Open AI's Roboschool](https://github.com/openai/roboschool) Open-source software for robot simulation, integrated with OpenAI Gym.
+* [g2core](https://github.com/synthetos/g2) Open-source motion control software for CNC and Robotics, designed to run on Arduino Due class microcontrollers.g2core is a 9 axes (XYZABC+UVW) motion control system designed for high-performance on small to mid-sized machines, such as CNC, 3D printing, Laser cutting.
 
 ----------------------------------------------------------------------------------------------------------------------------------
 * [Qt](http://qt-project.org/)[跨平台的应用程序和用户界面框架]
@@ -116,12 +122,16 @@ Document useful resources during project development
 * [RobWork](http://www.robwork.dk/jrobwork/)[一组C++库的集合，用于机器人系统的仿真和控制]
 * [Robotics Library (RL)](http://www.roboticslibrary.org/)[一个独立的C++库，包括机器人动力学，运动规划和控制,偏向工业机器人]
 * [MRPT](http://www.mrpt.org/)[移动机器人编程工具包]
+* [ViSP](http://visp.inria.fr/)Open-source visual servoing platform library, is able to compute control laws that can be applied to robotic systems.
+* [Neurorobotics Platform (NRP)](https://neurorobotics.net/) An Internet-accessible simulation system that allows the simulation of robots controlled by spiking neural networks.
 * [MOOS-IvP](https://oceanai.mit.edu/moos-ivp/pmwiki/pmwiki.php?n=Main.HomePage)[一组开源C++模块，提供机器人平台的自主权，尤其是自主的海洋车辆]
+* [ROS Behavior Trees](https://github.com/miccol/ROS-Behavior-Tree)Open-source library to create robot's behaviors in form of Behavior Trees running in ROS (Robot Operating System).
 * [OpenCV](https://github.com/opencv/opencv)[开源计算机视觉库]
 * [PCL](http://pointclouds.org/)[点云库是一个独立的，大规模的开放项目，用于2D/3D图像和点云处理]
 * [V4R (Vision for Robotics) library](https://rgit.acin.tuwien.ac.at/v4r/v4r_ros_wrappers/blob/master/Tutorial.md)[视觉建模与识别、跟踪，支持ROS]
 * [Lightweight Communications and Marshalling (LCM).]( https://lcm-proj.github.io/)[轻量级通信系统，和ROS相似，]
 * matlab robotics toolbox    
+* [Drake](https://drake.mit.edu/)A planning, control and analysis toolbox for nonlinear dynamical systems.
 
 ----------------------------------------------------------------------------------------------------------------------------------
 * Boost
@@ -221,8 +231,7 @@ Document useful resources during project development
 * 3456
 
 --------------------------
-https://www.coursera.org/learn/robotics-motion-planning/home/week/3  宾夕法尼亚运动规划   
------------------------
+
 
 ## 2.控制算法 | control algorithms
 ### 2.1 模型预测控制器 | MPC(Model Predictive Control)
@@ -299,6 +308,7 @@ Excellent Website Collection
 * Auro L4自动驾驶：[Auro robotics](http://www.auro.ai/)
 * The Autoware Foundation:[link](https://github.com/autowarefoundation)
 * Berkeley Autonomous Race Car:[link](http://www.barc-project.com/about-1/)
+* 机器人范畴很全的资料链接-课程、书籍、软件、期刊、公司等;[A list of awesome Robotics resources:kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics)
 
 ## 3.资源搜索型网站 | Resource Search Web
 * 各类电子书籍下载网站：[Library Genesis](http://gen.lib.rus.ec/)
@@ -306,6 +316,91 @@ Excellent Website Collection
 * 文献小镇（几乎能下载到所有文献）：[sci-hub](http://www.sci-hub.se/)
 * 国外硕博论文下载：[link1](国外硕博论文查询)和[link2](http://www.dart-europe.eu/About/info.php)
 * 三维模型下载：[link](https://grabcad.com/library)
+
+## 4.网络课程 | Online Course
+* [宾夕法尼亚运动规划](https://www.coursera.org/learn/robotics-motion-planning/home/week/3 )
+* [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) **Udacity**
+* [Robotics Nanodegree](https://www.udacity.com/course/robotics-nanodegree--nd209) **Udacity** :dollar:
+* [Autonomous Mobile Robots](https://courses.edx.org/courses/course-v1:ETHx+AMRx+1T2015/info) **edX**
+* [Underactuated Robotics](https://courses.edx.org/courses/course-v1:MITx+6.832x_2+3T2015/info) **edX**
+* [Autonomous Mobile Robots](https://courses.edx.org/courses/ETHx/AMRx/1T2014/info) **edX**
+* [Robot Mechanics and Control, Part I](https://www.edx.org/course/robot-mechanics-control-part-i-snux-snu446-345-1x) **edX**
+* [Robot Mechanics and Control, Part II](https://www.edx.org/course/robot-mechanics-control-part-ii-snux-snu446-345-2x) **edX**
+* [Autonomous Navigation for Flying Robots](https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0) **edX**
+* [Robotics Micromasters](https://www.edx.org/micromasters/pennx-robotics) **edX**
+* [Robotics Specialization by GRASP Lab](https://www.coursera.org/specializations/robotics) **Coursera** :dollar:
+* [Control of Mobile Robots](https://www.coursera.org/course/conrob) **Coursera**
+* [QUT Robot Academy](https://robotacademy.net.au/) **QUT**
+* [Robotic vision](https://www.qut.edu.au/study/short-courses-and-professional-development/short-courses/robotic-vision) **QUT**
+* [Introduction to robotics](http://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/) **MIT**
+* [Robotics: Vision Intelligence and Machine Learning](https://www.edx.org/course/robotics-vision-intelligence-machine-pennx-robo2x) **edX**
+* [Applied robot design](https://www.youtube.com/user/StanfordCS235/videos) **Stanford University**
+* [Introduction to Robotics](https://see.stanford.edu/Course/CS223A) **Stanford University**
+* [Introduction to Mobile Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php) **University of Freiburg**
+* [Robotics](https://www.edx.org/micromasters/pennx-robotics) **edx** :dollar:
+* [Columbia Robotics](https://www.edx.org/course/robotics-columbiax-csmm-103x-2) **edx** 
+
+## 5.期刊和会议 | Journals and Conferences
+### Journals
+* [Autonomous Robots](http://www.springer.com/engineering/robotics/journal/10514)
+* [Bioinspiration & Biomimetics](http://iopscience.iop.org/journal/1748-3190)
+* [Frontiers in Robotics and AI](http://journal.frontiersin.org/journal/robotics-and-ai)
+* [IEEE Robotics & Automation Magazine](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100)
+* [IEEE Transactions on Haptics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4543165)
+* [IEEE Transactions on Robotics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)
+* [IEEE/ASME Transactions on Mechatronics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516)
+* [International Journal of Social Robotics](http://www.springer.com/engineering/robotics/journal/12369)
+* [Journal of Field Robotics](http://www.journalfieldrobotics.org/Home.html)
+* [Journal of Intelligent & Robotic Systems](http://www.springer.com/engineering/robotics/journal/10846)
+* [Mechatronics](http://www.journals.elsevier.com/mechatronics)
+* [Robotics and Computer-Integrated Manufacturing](http://www.journals.elsevier.com/robotics-and-computer-integrated-manufacturing)
+* [Robotics and Autonomous Systems](http://www.journals.elsevier.com/robotics-and-autonomous-systems)
+* [The International Journal of Robotics Research](http://www.ijrr.org/)
+
+### Conferences
+* [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
+* [CISM IFToMM Symposium on Robot Design, Dynamics and Control (RoManSy)](http://www.romansy2016.org/)
+* [IEEE Conference on Decision and Controls (CDC)](http://ieeexplore.ieee.org/servlet/opac?punumber=1000188)
+* [IEEE International Conference on Rehabilitation Robotics (ICORR)](http://www.rehabrobotics.org/)
+* [IEEE International Conference on Robotics and Automation (ICRA)](http://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
+* [IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)](http://www.iros.org/)
+* [IEEE-RAS International Conference on Humanoid Robots (Humanoids)](http://ieeexplore.ieee.org/servlet/opac?punumber=1002042)
+* [International Symposium of Robotic Research (ISRR)](http://ifrr.org/isrr.php)
+* [International Symposium of Experimental Robotics (ISER)](http://ifrr.org/iser.php)
+* [Robotica](http://www.ieee-ras.org/conferences-workshops/technically-co-sponsored/robotica)
+* [Robotics: Science and Systems Conference (RSS)](http://www.roboticsconference.org/)
+* [The International Workshop on the Algorithmic Foundations of Robotics (WAFR)](http://www.wafr.org/)
+
+## 6.公司和竞赛 | Companies and Competitions
+### Companies ###
+* [Boston Dynamics](http://www.bostondynamics.com/) robotics R&D company, creator of the state of the art [Atlas](https://www.youtube.com/watch?v=rVlhMGQgDkY) and [Spot](https://www.youtube.com/watch?v=M8YjvHYbZ9w) robots
+* [iRobot](http://www.irobot.com/) manufacturer of the famous [Roomba](https://en.wikipedia.org/wiki/Roomba) robotic vacuum cleaner
+* [PAL Robotics](http://pal-robotics.com)
+* [Aldebaran Robotics](https://www.aldebaran.com/en) creator of the [NAO robot](https://www.youtube.com/watch?v=nNbj2G3GmAo)
+* [ABB Robotics](http://new.abb.com/products/robotics) the largest manufacturer of industrial robots
+* [KUKA Robotics](http://www.kuka-robotics.com/en/) major manufacturer of industrial robots targeted at factory automation
+* [FANUC](http://www.fanucamerica.com/) industrial robots manufacturer with the biggest install base
+* [Rethink Robotics](http://www.rethinkrobotics.com/) creator of the collaborative robot [Baxter](https://www.youtube.com/watch?v=fCML42boO8c)
+* [DJI](http://www.dji.com/) industry leader in drones for both commerical and industrial needs.
+* [The construct sim](http://www.theconstructsim.com/)  A cloud based tool for building modern, future-proof robot simulations. 
+* [Fetch Robotics](http://www.fetchrobotics.com/) A robotics startup in San Jose, CA building the future of e-commerce fulfillment and R&D robots.
+* [Festo Robotics](https://www.festo.com/) Festo is known for making moving robots that move like animals such as the sea gull like SmartBird, jellyfish, butterflies and kangaroos.
+
+### Competitions ###
+* [ICRA Robot Challenges](http://www.icra2017.org/conference/robot-challenges)
+* [RobotChallenge](http://www.robotchallenge.org/)
+* [DARPA Robotics Challenge](http://www.theroboticschallenge.org/)
+* [European Robotics Challenges](http://www.euroc-project.eu/)
+* [First Robotics Competition](http://www.firstinspires.org/robotics/frc)
+* [VEX Robotics Competition](https://www.vexrobotics.com/)
+* [RoboCup](http://www.robocup.org/)
+* [Eurobot](http://www.eurobot.org/) International Students Robotics Contest
+* [RoboMasters](http://www.robomasters.com/en/)
+* [RoboSoft, Grand Challenge](http://www.robosoftca.eu/)
+* [Intelligent Ground Vehicle Competition](http://www.igvc.org/)
+* [Robotex](https://robotex.ee/en/) The biggest robotics festival in Europe
+
+
 
 **************************************************************************************************************************
 # 爱好 | Hobbies
