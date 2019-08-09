@@ -400,9 +400,34 @@ Excellent Website Collection
 * [Intelligent Ground Vehicle Competition](http://www.igvc.org/)
 * [Robotex](https://robotex.ee/en/) The biggest robotics festival in Europe
 
+**************************************************************************************************************************
 
+## 10.机器人相关话题 | Related lists
+### Misc ###
+* [IEEE Spectrum Robotics](http://spectrum.ieee.org/robotics) robotics section of the IEEE Spectrum magazine
+* [MIT Technology Review Robotics](https://www.technologyreview.com/c/robotics/) robotics section of the MIT Technology Review magazine
+* [reddit robotics subreddit](https://www.reddit.com/r/robotics/)
+* [RosCON conference (video talks included)](http://roscon.ros.org/2015/)
+* [Carnegie Mellon Robotics Academy](http://education.rec.ri.cmu.edu/)
+* [Let's Make Robots](http://letsmakerobots.com/)
+* [How do I learn Robotics?](https://www.quora.com/How-do-I-learn-robotics)
+* [Free NXT Lego MindStorms NXT-G code tutorials](http://www.drgraeme.net/DrGraeme-free-NXT-G-tutorials/ChV4.htm)
+* [StackExachange Robotics community](https://robotics.stackexchange.com)
+* [47 Programmable robotic kits](http://www.intorobotics.com/47-programmable-robotic-kits/)
+* [Linorobot](https://linorobot.org/) A suite of DIY ROS compatible robots
+
+### Related awesome lists ###
+* [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+* [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/)
+* [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
+* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
 
 **************************************************************************************************************************
+
 # 爱好 | Hobbies
 reading and sports
 
