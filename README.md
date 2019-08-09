@@ -269,6 +269,8 @@ Excellent Website Collection
 * 机械臂和轨迹规划算法相关：[Brian2018](https://blog.csdn.net/libing403/article/details/89344476)    
 * NVIDIA JETSON系列开发板及RACE CAR教程网站：[JetsonHacks](https://www.jetsonhacks.com/)
 * 机器人算法汇集-超级全：[PythonRobotics by AtsushiSakai](https://github.com/AtsushiSakai/PythonRobotics)
+* 同类型的机器人算法cpp版本：[CppRobotics](https://github.com/onlytailei/CppRobotics)
+* [Modern Robotics: Mechanics, Planning, and Control书籍c++代码](https://github.com/Le0nX/ModernRoboticsCpp),更多看:[link](http://modernrobotics.org/)
 * 机器人大师之路指点迷津：[YY硕](http://www.zhihu.com/people/yyss2037)
 * ROS开发实践大神：[古月居](http://www.guyuehome.com/) 和 [R. PATRICK GOEBEL](https://robohub.org/author/patrick-goebel/)
 * 树莓派自动小车（Donkey Car）开发经历记录：[SHIROKU](https://shiroku.net/)
