@@ -110,6 +110,7 @@ Document useful resources during project development
 ----------------------------------------------------------------------------------------------------------------------------------
 * [Qt](http://qt-project.org/)[跨平台的应用程序和用户界面框架]
 * Machine Learning: tensorflow, Caffe, Keras, PyTorch, and so on   
+* 全球现代技术计算的终极系统:[Mathematica](http://www.wolfram.com/mathematica/)
 
 ### 1.2 开源库 | the Third-party Libraries
 * [Armadillo](http://arma.sourceforge.net/)[高质量的C++线性代数库，速度和易用性做到了很好的平衡,C++下的Matlab替代品]
@@ -309,6 +310,7 @@ Excellent Website Collection
 * The Autoware Foundation:[link](https://github.com/autowarefoundation)
 * Berkeley Autonomous Race Car:[link](http://www.barc-project.com/about-1/)
 * 机器人范畴很全的资料链接-课程、书籍、软件、期刊、公司等;[A list of awesome Robotics resources:kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics)
+* 非常丰富的数学资源：[wolfram mathworld](http://mathworld.wolfram.com/)
 
 ## 3.资源搜索型网站 | Resource Search Web
 * 各类电子书籍下载网站：[Library Genesis](http://gen.lib.rus.ec/)
