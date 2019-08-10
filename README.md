@@ -166,16 +166,8 @@ Document useful resources during project development
 * 奥比中光  Astra
 
 ##### 激光雷达传感器 | Lidar
-* Velodyne
-* Sick
-* Ibeo
-* Hokuyo
-* Trimble
-* 思岚科技  SLAMTEC
-* 速腾聚创
-* 禾赛科技
-* 北醒光子
-* 镭神智能
+* Velodyne Sick Ibeo Hokuyo Trimble
+* 思岚科技（SLAMTEC）  速腾聚创 禾赛科技 北醒光子 镭神智能
 
 #### 2.1.2 定位类　｜　Location
 * razor-imu-9dof
@@ -191,6 +183,7 @@ Document useful resources during project development
 * HUSKY   
 * RACE CAR   
 * Autolabor Pro   
+* RobotMaster S1
 
 #### Robot Arm  
 * Dobot
@@ -224,12 +217,12 @@ Document useful resources during project development
 
 **3.0 概率法 | Sampling-based Algorithms**        
 ### 3.1 随机路线图法 | RPM(Random Probabilistic Map)       
-* 12345
-* 3445
+* 
+* 
 
 ### 3.2 快速扩展随机树 | RRT(Rapidly-exploring Random Tree)   
-* 1234
-* 3456
+* 
+* 
 
 --------------------------
 
@@ -282,7 +275,7 @@ Excellent Website Collection
 * 同类型的机器人算法cpp版本：[CppRobotics](https://github.com/onlytailei/CppRobotics)
 * [Modern Robotics: Mechanics, Planning, and Control书籍c++代码](https://github.com/Le0nX/ModernRoboticsCpp),更多看:[link](http://modernrobotics.org/)
 * 机器人大师之路指点迷津：[YY硕](http://www.zhihu.com/people/yyss2037)
-* ROS开发实践大神：[古月居](http://www.guyuehome.com/) 和 [R. PATRICK GOEBEL](https://robohub.org/author/patrick-goebel/)
+* ROS开发实践大神的博客：[古月居](http://www.guyuehome.com/)  [R. PATRICK GOEBEL](https://robohub.org/author/patrick-goebel/)
 * 树莓派自动小车（Donkey Car）开发经历记录：[SHIROKU](https://shiroku.net/)
 * 深度学习相关实践经历：[JK Jung's blog](https://jkjung-avt.github.io/)
 * 机器人、游戏开发等计算机相关资料：[Adrian Boeing](http://adrianboeing.blogspot.com/search/label/robotics)
@@ -311,13 +304,14 @@ Excellent Website Collection
 * Berkeley Autonomous Race Car:[link](http://www.barc-project.com/about-1/)
 * 机器人范畴很全的资料链接-课程、书籍、软件、期刊、公司等;[A list of awesome Robotics resources:kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics)
 * 非常丰富的数学资源：[wolfram mathworld](http://mathworld.wolfram.com/)
+* 介绍机器人设计过程中的详细资料（包含理论推导和工程实践）:[TTU Advanced Robotics](http://ttuadvancedrobotics.wikidot.com/class-wikis)
 
 ## 3.资源搜索型网站 | Resource Search Web
 * 各类电子书籍下载网站：[Library Genesis](http://gen.lib.rus.ec/)
 * 部分论文及其各类电子书下载网址：[arxiv](https://arxiv.org/)[备注：为了防止自己的idea在论文被收录前被别人剽窃，将预稿上传到arvix作为预收录，以证明论文原创性]
 * 文献小镇（几乎能下载到所有文献）：[sci-hub](http://www.sci-hub.se/)
-* 国外硕博论文下载：[link1](国外硕博论文查询)和[link2](http://www.dart-europe.eu/About/info.php)
-* 三维模型下载：[link](https://grabcad.com/library)
+* 国外硕博论文下载：[pqdtopen](https://pqdtopen.proquest.com/search.html)和[dart-europe](http://www.dart-europe.eu/About/info.php)
+* 三维模型下载：[grabcad](https://grabcad.com/library)
 
 ## 4.网络课程 | Online Course
 * [宾夕法尼亚运动规划](https://www.coursera.org/learn/robotics-motion-planning/home/week/3 )
