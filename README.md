@@ -107,6 +107,17 @@ Document useful resources during project development
 * [Open AI's Roboschool](https://github.com/openai/roboschool): Open-source software for robot simulation, integrated with OpenAI Gym.
 * [g2core](https://github.com/synthetos/g2): Open-source motion control software for CNC and Robotics, designed to run on Arduino Due class microcontrollers.g2core is a 9 axes (XYZABC+UVW) motion control system designed for high-performance on small to mid-sized machines, such as CNC, 3D printing, Laser cutting.
 
+---------------------------------------------------------------------------------------------------------------------------------
+
+**运动规划仿真的开源项目**
+*  [Apollo](https://github.com/ApolloAuto/apollo)
+*  [fastsim](https://github.com/TianyuGuCMU/Simulator-RETIRED)
+*  [CommonRoad](https://commonroad.in.tum.de/)
+*  [CoInCar-Sim](https://github.com/coincar-sim/coincarsim_getting_started)
+*  [Autoware](https://github.com/autowarefoundation/autoware)
+*  [CarND-path planning]()
+*  [Matlab](https://github.com/udacity/CarND-Path-Planning-Project)
+
 ----------------------------------------------------------------------------------------------------------------------------------
 * [Qt](http://qt-project.org/):跨平台的应用程序和用户界面框架
 * Machine Learning: tensorflow, Caffe, Keras, PyTorch, and so on   
