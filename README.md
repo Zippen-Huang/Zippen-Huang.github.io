@@ -1,8 +1,9 @@
 # 个人信息 | Zippen's Info    
 
-* AM: a (mobile) robot designer and maker      
-* E-mail: huang_zhipeng@foxmail.com   
-* GITHUB: [Zippen-Huang](https://github.com/Zippen-Huang)     
+*  **AM**: a (mobile) robot designer and maker      
+*  **E-mail**: huang_zhipeng@foxmail.com   
+*  **GITHUB**: [Zippen-Huang](https://github.com/Zippen-Huang)     
+*  **知乎**：
 
 # 研究领域 | Field of Research
  自动驾驶（融合感知与规划、自动控制） | self-driving system(integrated perception and planning,  motion control)    
@@ -91,7 +92,7 @@ Robot projects practice, recorded in chronological order.
 Document useful resources during project development    
 
 ## 1 软件 | Software  
-### 1.1 开发平台 | Development Platforms
+### 1.1 开发及仿真平台 | Development and Simulation Platforms （for Robots）
 * [ROS](http://wiki.ros.org/):机器人操作系统
 * [Apollo](http://apollo.auto/):国内领先开源无人驾驶系统
 * [Autoware](https://github.com/autowarefoundation/autoware) --中文简介:[基于ROS的Most Stars开源代码汇总（自动驾驶汽车+RGBDSLAMv2+ROS2+人识别与跟踪等](http://www.voidcn.com/article/p-srkfvcig-nh.html)
@@ -106,54 +107,65 @@ Document useful resources during project development
 * [Webots](https://cyberbotics.com/):Webots is a development environment used to model, program and simulate mobile robots.
 * [Open AI's Roboschool](https://github.com/openai/roboschool): Open-source software for robot simulation, integrated with OpenAI Gym.
 * [g2core](https://github.com/synthetos/g2): Open-source motion control software for CNC and Robotics, designed to run on Arduino Due class microcontrollers.g2core is a 9 axes (XYZABC+UVW) motion control system designed for high-performance on small to mid-sized machines, such as CNC, 3D printing, Laser cutting.
-
----------------------------------------------------------------------------------------------------------------------------------
-
-**运动规划仿真的开源项目**
-*  [Apollo](https://github.com/ApolloAuto/apollo)
 *  [fastsim](https://github.com/TianyuGuCMU/Simulator-RETIRED)
 *  [CommonRoad](https://commonroad.in.tum.de/)
 *  [CoInCar-Sim](https://github.com/coincar-sim/coincarsim_getting_started)
 *  [Autoware](https://github.com/autowarefoundation/autoware)
-*  [CarND-path planning]()
-*  [Matlab](https://github.com/udacity/CarND-Path-Planning-Project)
+*  [CarND-path planning](https://github.com/udacity/CarND-Path-Planning-Project)
+*  [Matlab]():最新版本包含许多无人车系统相关的包
 
-----------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
+
+**其他开发平台**
+
 * [Qt](http://qt-project.org/):跨平台的应用程序和用户界面框架
 * Machine Learning: tensorflow, Caffe, Keras, PyTorch, and so on   
 * [Mathematica](http://www.wolfram.com/mathematica/):全球现代技术计算的终极系统
 
 ### 1.2 开源库 | the Third-party Libraries
+
+**规划 Planning**     
+* [OMPL](https://ompl.kavrakilab.org/):Open Motion Planning Library
+
+**控制 Control**    
+* [Robotics Library (RL)](http://www.roboticslibrary.org/):一个独立的C++库，包括机器人动力学，运动规划和控制,偏向工业机器人
+* [RobWork](http://www.robwork.dk/jrobwork/):一组C++库的集合，用于机器人系统的仿真和控制
+
+**感知 Perception**  
+* [ViSP](http://visp.inria.fr/):Open-source visual servoing platform library, is able to compute control laws that can be applied to robotic systems.
+* [OpenCV](https://github.com/opencv/opencv):开源计算机视觉库
+* [PCL](http://pointclouds.org/):点云库是一个独立的，大规模的开放项目，用于2D/3D图像和点云处理
+* [V4R (Vision for Robotics) library](https://rgit.acin.tuwien.ac.at/v4r/v4r_ros_wrappers/blob/master/Tutorial.md):视觉建模与识别、跟踪，支持ROS
+
+**定位 Localization**
+
+
+**综合 Synthesis**
+* [MRPT](http://www.mrpt.org/):移动机器人编程工具包
+* [Neurorobotics Platform (NRP)](https://neurorobotics.net/) :An Internet-accessible simulation system that allows the simulation of robots controlled by spiking neural networks.
+* [Drake](https://drake.mit.edu/):A planning, control and analysis toolbox for nonlinear dynamical systems.
+* [MOOS-IvP](https://oceanai.mit.edu/moos-ivp/pmwiki/pmwiki.php?n=Main.HomePage):一组开源C++模块，提供机器人平台的自主权，尤其是自主的海洋车辆
+* [ROS Behavior Trees](https://github.com/miccol/ROS-Behavior-Tree):Open-source library to create robot's behaviors in form of Behavior Trees running in ROS (Robot Operating System).
+
+**其他 Others**       
+* [Lightweight Communications and Marshalling (LCM).]( https://lcm-proj.github.io/):轻量级通信系统，和ROS相似，
+* matlab robotics toolbox   
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+**其他计算等库  Others**
+
 * [Armadillo](http://arma.sourceforge.net/):高质量的C++线性代数库，速度和易用性做到了很好的平衡,C++下的Matlab替代品
 * [Eigen3](http://eigen.tuxfamily.org/):高级C++模板头文件库，包括线性代数，矩阵，向量操作，数值解决和其他相关的算法
 * [blaze](https://code.google.com/p/blaze-lib/):高性能的C++数学库，用于密集和稀疏算法
 * [ceres-solver](http://ceres-solver.org/):来自谷歌的C++库，用于建模和解决大型复杂非线性最小平方问题   
+* [Boost](https://www.boost.org/)    
 
 ----------------------------------------------------------------------------------------------------------------------------------
-* OMPL(Open Motion Planning Library)
-* [RobWork](http://www.robwork.dk/jrobwork/):一组C++库的集合，用于机器人系统的仿真和控制
-* [Robotics Library (RL)](http://www.roboticslibrary.org/):一个独立的C++库，包括机器人动力学，运动规划和控制,偏向工业机器人
-* [MRPT](http://www.mrpt.org/):移动机器人编程工具包
-* [ViSP](http://visp.inria.fr/):Open-source visual servoing platform library, is able to compute control laws that can be applied to robotic systems.
-* [Neurorobotics Platform (NRP)](https://neurorobotics.net/) :An Internet-accessible simulation system that allows the simulation of robots controlled by spiking neural networks.
-* [MOOS-IvP](https://oceanai.mit.edu/moos-ivp/pmwiki/pmwiki.php?n=Main.HomePage):一组开源C++模块，提供机器人平台的自主权，尤其是自主的海洋车辆
-* [ROS Behavior Trees](https://github.com/miccol/ROS-Behavior-Tree):Open-source library to create robot's behaviors in form of Behavior Trees running in ROS (Robot Operating System).
-* [OpenCV](https://github.com/opencv/opencv):开源计算机视觉库
-* [PCL](http://pointclouds.org/):点云库是一个独立的，大规模的开放项目，用于2D/3D图像和点云处理
-* [V4R (Vision for Robotics) library](https://rgit.acin.tuwien.ac.at/v4r/v4r_ros_wrappers/blob/master/Tutorial.md):视觉建模与识别、跟踪，支持ROS
-* [Lightweight Communications and Marshalling (LCM).]( https://lcm-proj.github.io/):轻量级通信系统，和ROS相似，
-* matlab robotics toolbox    
-* [Drake](https://drake.mit.edu/):A planning, control and analysis toolbox for nonlinear dynamical systems.
-
-----------------------------------------------------------------------------------------------------------------------------------
-* Boost
-
-
-
 
 ### 1.3 其他软件 | Others
 
-## 2硬件 | Hardware  
+## 2 硬件 | Hardware  
 ###  2.1 处理器平台 | Processor Platforms
 #### 2.1.1 高级处理器　｜　High-level　Processors
 * NVIDIA Jetson Family: TK1, TX1, TX2, NANO, Xaiver
@@ -171,41 +183,32 @@ Document useful resources during project development
 ###  2.2 传感器 | Sensors
 #### 2.2.1 感知类 ｜Perception
 ##### 视觉传感器 | Camera
-* MicroSoft Kinect
-* Intel RealSense
-* ZED
-* 奥比中光  Astra
+MicroSoft Kinect    Intel RealSense    ZED    奥比中光（Astra）
 
 ##### 激光雷达传感器 | Lidar
-* Velodyne  ||  Sick ||  Ibeo  ||   Hokuyo ||  Trimble
-* 思岚科技（SLAMTEC）  速腾聚创 禾赛科技 北醒光子 镭神智能
+* Velodyne    Sick    Ibeo    Hokuyo     Trimble
+* 思岚科技（SLAMTEC）    速腾聚创    禾赛科技    北醒光子    镭神智能
 
 #### 2.1.2 定位类　｜　Location
-* razor-imu-9dof
-* Ublox GPS
+razor-imu-9dof    Ublox GPS
 
 ###  2.1.3 驱动及电机 | Actuators(Motors)
-* DYNAMIXEL
-* maxon motor
+DYNAMIXEL    maxon motor
 
-###  2.1.4 机器人平台 | Robot that Integrated Hardware and Software
+###  2.1.4 语音开发板 | Voice Development
+科大讯飞 XFM10621    百度SoundPi    Seeed Respeaker    Synaptics AudioSmart Development Kits for Amazon AVS    
+
+###  2.1.5 机器人平台 | Robot that Integrated Hardware and Software
 #### Mobile Robots 
-* Turtlebot1, Turtlebot2, Turtlebot3    
-* HUSKY   
-* RACE CAR   
-* Autolabor Pro   
-* RobotMaster S1
+Turtlebot(1-3)  HUSKY    RACE CAR    Autolabor Pro    RobotMaster S1
 
 #### Robot Arm  
-* Dobot
-* uArm
-* UR5
+Dobot    uArm    UR5
 
 #### UAV  
-* DJI AUV
-* PixHawk
+DJI AUV    PixHawk
 
-###  2.1.5 其他硬件 | Others
+###  2.1.6 其他硬件 | Others
 
 **************************************************************************************************************************
 
@@ -226,13 +229,27 @@ Document useful resources during project development
 * Fiorini P, Shiller Z. Motion planning in dynamic environments using velocity obstacles[J]. The International Journal of Robotics Research, 1998, 17(7): 760-772.
 * Shiller Z, Large F, Sekhavat S. Motion planning in dynamic environments: Obstacles moving along arbitrary trajectories[C]//Proceedings 2001 ICRA. IEEE International Conference on Robotics and Automation (Cat. No. 01CH37164). IEEE, 2001, 4: 3716-3721.
 
+**2.0 曲线拟合法 | Curve Fitting**    
+### 2.1 状态晶格法 | State Lattices
+* Pivtoraiko M, Knepper R A, Kelly A. Differentially constrained mobile robot motion planning in state lattices[J]. Journal of Field Robotics, 2009, 26(3): 308-333.
+
+### 2.2 三次多项式 | Cubic Polynomial
+* Nagy B, Kelly A. Trajectory generation for car-like robots using cubic curvature polynomials[J]. Field and Service Robots, 2001, 11.
+* [math derivation](http://fourier.eng.hmc.edu/e176/lectures/ch7/node6.html)
+
+### 2.1 五次多项式 | Quintic Polynomial
+* Frenet Frame:Werling M, Ziegler J, Kammel S, et al. Optimal trajectory generation for dynamic street scenarios in a frenet frame[C]//2010 IEEE International Conference on Robotics and Automation. IEEE, 2010: 987-993.
+
+### 2.1 直线和圆弧 | Line and Circle
+* Dubins:Bui X N, Boissonnat J D, Soueres P, et al. Shortest path synthesis for Dubins non-holonomic robot[C]//Proceedings of the 1994 IEEE International Conference on Robotics and Automation. IEEE, 1994: 2-7.
+* R&S Curve:Sussmann H J, Tang G. Shortest paths for the Reeds-Shepp car: a worked out example of the use of geometric techniques in nonlinear optimal control[J]. Rutgers Center for Systems and Control Technical Report, 1991, 10: 1-71.    
+
+
 **3.0 概率法 | Sampling-based Algorithms**        
 ### 3.1 随机路线图法 | RPM(Random Probabilistic Map)       
 * 
-* 
 
 ### 3.2 快速扩展随机树 | RRT(Rapidly-exploring Random Tree)   
-* 
 * 
 
 --------------------------
@@ -249,14 +266,10 @@ Document useful resources during project development
 
 ## 3.感知算法 | perception algorithms
 ### 3.1 深度学习方向 | Deep Learning
-* YOLO
-* SSD
-* CNN
-* DNN
-* RNN
-* 
+YOLO    SSD     CNN     DNN     RNN
 
 ## 4.定位算法 | location algorithms
+### 4.1 直方图滤波 | HF(Histogram Filtering)
 
 ## 5.滤波算法 | Filter algorithms　
 ### 5.1 卡尔曼滤波 | KF(Kalman Filter)
@@ -434,6 +447,11 @@ Excellent Website Collection
 * [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/)
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
+
+**************************************************************************************************************************
+
+# 机器人书籍 | Robot Books
+* 
 
 **************************************************************************************************************************
 
