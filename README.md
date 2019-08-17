@@ -137,7 +137,7 @@ Document useful resources during project development
 * [V4R (Vision for Robotics) library](https://rgit.acin.tuwien.ac.at/v4r/v4r_ros_wrappers/blob/master/Tutorial.md):视觉建模与识别、跟踪，支持ROS
 
 **定位 Localization**
-
+*
 
 **综合 Synthesis**
 * [MRPT](http://www.mrpt.org/):移动机器人编程工具包
@@ -164,6 +164,8 @@ Document useful resources during project development
 
 ### 1.3 其他软件 | Others
 
+**************************************************************************************************************************
+
 ## 2 硬件 | Hardware  
 ###  2.1 处理器平台 | Processor Platforms
 #### 2.1.1 高级处理器　｜　High-level　Processors
@@ -181,33 +183,39 @@ Document useful resources during project development
 
 ###  2.2 传感器 | Sensors
 #### 2.2.1 感知类 ｜Perception
-##### 视觉传感器 | Camera
-MicroSoft Kinect    Intel RealSense    ZED    奥比中光（Astra）
+#### 视觉传感器 | Camera
+* MicroSoft Kinect    
+* Intel RealSense    
+* ZED    
+* 奥比中光（Astra）
 
-##### 激光雷达传感器 | Lidar
-* Velodyne    Sick    Ibeo    Hokuyo     Trimble
-* 思岚科技（SLAMTEC）    速腾聚创    禾赛科技    北醒光子    镭神智能
+#### 激光雷达传感器 | Lidar
+Velodyne | Sick | Ibeo | Hokuyo | Trimble
+思岚科技（SLAMTEC） | 速腾聚创 | 禾赛科技 | 北醒光子 | 镭神智能
 
 #### 2.1.2 定位类　｜　Location
-razor-imu-9dof    Ublox GPS
+* razor-imu-9dof    
+* Ublox GPS
 
 ###  2.1.3 驱动及电机 | Actuators(Motors)
-DYNAMIXEL    maxon motor
+* DYNAMIXEL    
+* maxon motor
 
 ###  2.1.4 语音开发板 | Voice Development
-科大讯飞 XFM10621    百度SoundPi    Seeed Respeaker    Synaptics AudioSmart Development Kits for Amazon AVS    
+科大讯飞 XFM10621  | 百度SoundPi | Seeed Respeaker| Synaptics AudioSmart Development Kits for Amazon AVS    
 
 ###  2.1.5 机器人平台 | Robot that Integrated Hardware and Software
 #### Mobile Robots 
-Turtlebot(1-3)  HUSKY    RACE CAR    Autolabor Pro    RobotMaster S1
+Turtlebot(1-3) | HUSKY | RACE CAR | Autolabor | Pro | RobotMaster S1
 
 #### Robot Arm  
-Dobot    uArm    UR5
+Dobot | uArm | UR5
 
 #### UAV  
-DJI AUV    PixHawk
+DJI AUV | PixHawk
 
 ###  2.1.6 其他硬件 | Others
+*
 
 **************************************************************************************************************************
 
