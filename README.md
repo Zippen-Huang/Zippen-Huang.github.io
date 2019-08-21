@@ -120,6 +120,8 @@ Document useful resources during project development
 * [Qt](http://qt-project.org/):跨平台的应用程序和用户界面框架
 * Machine Learning: tensorflow, Caffe, Keras, PyTorch, and so on   
 * [Mathematica](http://www.wolfram.com/mathematica/):全球现代技术计算的终极系统
+* [UML](https://www.jianshu.com/p/8c9333352b37):Unified Modeling Language - 统一建模语言 - 搭建项目架构
+* [xmind](https://www.xmind.net/):思维导图
 
 ### 1.2 开源库 | the Third-party Libraries
 
@@ -316,12 +318,13 @@ Excellent Website Collection
 * 自主避障主题:[obstacle-avoidance](https://github.com/topics/obstacle-avoidance)
 * 简单路径规划博客：[Andy G's Blog](https://gieseanw.wordpress.com/)
 * 自动驾驶、深度学习博客：[阿贵](https://www.zhihu.com/people/a-gui-7/columns)
-* 
+* Tombone's Computer Vision Blog：[Tombone](http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html):Deep Learning, Computer Vision, and the algorithms that are shaping the future of Artificial Intelligence.
 
 
 ## 2.综合型网站 | Comprehensive Web
-* 机器人软硬件及其编程教程汇集：[创客智造](https://www.ncnynl.com/)   
-* 各类软件编程教程网站（程序员的天地):[菜鸟教程 runoob](https://www.runoob.com/)
+* 国内机器人软硬件及其编程教程汇集：[创客智造](https://www.ncnynl.com/)   
+* 国内各类软件编程教程网站（程序员的天地):[菜鸟教程 runoob](https://www.runoob.com/)
+* 国外各类软件编程教程网站（和菜鸟教程相似）:[w3schools](https://www.w3schools.com/)
 * 国外数据结构、计算机几何及各类软件编程教程：[GeekforGeeks](https://www.geeksforgeeks.org/)
 * 人工智能、机器学习、自动驾驶等技术类综合型资料：[Intro to Artificial Intelligence](https://medium.com/intro-to-artificial-intelligence)
 * 慕尼黑工大 凤凰机器人:[TUM Phoenix Robotics](http://www.phoenix.tum.de/index.php?id=5)[无人机与智能移动机器人]
@@ -458,7 +461,29 @@ Excellent Website Collection
 **************************************************************************************************************************
 
 # 机器人书籍 | Robot Books
-* 
+* [**Numerical Optimization**](https://books.google.com/books?id=VbHYoSyelFcC&lpg=PP1&dq=Numerical%20Optimization&hl=zh-CN&pg=PP1#v=onepage&q=Numerical%20Optimization&f=false)
+* [**Planning Algorithms**](https://books.google.com/books?id=-PwLBAAAQBAJ&lpg=PP1&dq=Planning%20Algorithms&hl=zh-CN&pg=PP1#v=onepage&q=Planning%20Algorithms&f=false)
+* [**Linear Algebra Done Wrong**](https://books.google.com/books?id=0_S7tAEACAAJ&dq=Linear+Algebra+Done+Wrong&hl=zh-CN&sa=X&ved=0ahUKEwiav5nEhZPkAhWVHzQIHcGQBt4Q6AEINDAC)
+* [**topologywithouttears**](http://www.topologywithouttears.net/)：拓扑方面的教材
+* [**Probabilistic Robotics** (Intelligent Robotics and Autonomous Agents series)](https://books.google.com/books?id=2Zn6AQAAQBAJ&lpg=PP1&dq=Probabilistic%20Robotics%20(Intelligent%20Robotics%20and%20Autonomous%20Agents%20series)&hl=zh-CN&pg=PP1#v=onepage&q=Probabilistic%20Robotics%20(Intelligent%20Robotics%20and%20Autonomous%20Agents%20series)&f=false)：概率机器人
+* [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf):凸优化
+* [Linear System Theory and Design](https://books.google.com/books?id=Fqi4oRgmOocC&dq=Linear+System+Electrical+Computer+Engineering&hl=zh-CN&sa=X&ved=0ahUKEwiU1JLfjJPkAhXCIDQIHYijD6MQ6AEIMDAB):线性系统理论
+* [Linear Estimation](https://books.google.com/books?id=zNJFAQAAIAAJ&q=Linear+Estimation&dq=Linear+Estimation&hl=zh-CN&sa=X&ved=0ahUKEwjViZjwjJPkAhUhL30KHRfRDe4Q6AEIKTAA):线性估计
+* [Modern Control Systems](https://books.google.com/books?id=V-FpzJP5bEIC&q=Modern+Control+Systems&dq=Modern+Control+Systems&hl=zh-CN&sa=X&ved=0ahUKEwiQnNOkjZPkAhWnIjQIHRZiCJ0Q6AEILDAA)
+* [Rigid Body Dynamics](https://authors.library.caltech.edu/25023/1/Housner-HudsonDyn80.pdf):刚体动力学
+* [Feedback Systems: An Introduction for Scientists and Engineers](https://books.google.com/books?id=cdG9fNqTDS8C&lpg=PP1&dq=Feedback%20Systems%3A%20An%20Introduction%20for%20Scientists%20and%20Engineers&hl=zh-CN&pg=PP1#v=onepage&q=Feedback%20Systems:%20An%20Introduction%20for%20Scientists%20and%20Engineers&f=false)
+* [Stochastic models estimation and control](https://www.cs.unc.edu/~welch/kalman/media/pdf/maybeck_ch1.pdf)：随机系统的控制和最优控制
+* [A mathematical introduction to robotic manipulation](http://www.cds.caltech.edu/~murray/books/MLS/pdf/mls94-complete.pdf)
+* [An elementary introduction to groups and representations](https://arxiv.org/pdf/math-ph/0005032.pdf)
+* []()
+* []()
+* []()
+* []()
+* []()
+
+
+
+
 
 **************************************************************************************************************************
 
