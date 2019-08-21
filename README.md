@@ -469,9 +469,11 @@ Excellent Website Collection
 * [Robotics: Modelling, Planning and Control](https://books.google.com/books?id=jPCAFmE-logC&lpg=PR2&dq=robotics&hl=zh-CN&pg=PR5#v=onepage&q=robotics&f=false)
 * [Computational Principles of Mobile Robotics](https://books.google.com/books?id=db5pr2275i0C&lpg=PP1&dq=robotics&hl=zh-CN&pg=PP1#v=onepage&q=robotics&f=false)
 * [Theory of Applied Robotics](https://books.google.com/books?id=hHS40c6sYucC&lpg=PP1&dq=robotics&hl=zh-CN&pg=PA1#v=onepage&q=robotics&f=false)
+* [Modern Robotics: Mechanics, Planning, and Control](https://books.google.com/books?id=OB4xDwAAQBAJ&lpg=PP1&dq=MODERN%20ROBOTICS%20MECHANICS%2C%20PLANNING%2C%20AND%20CONTROL&hl=zh-CN&pg=PP1#v=onepage&q=MODERN%20ROBOTICS%20MECHANICS,%20PLANNING,%20AND%20CONTROL&f=false)
+* [Introduction to Robotics Mechanics and Control](https://books.google.com/books?id=JblZuwAACAAJ&dq=Introduction+to+Robotics+Mechanics+and+Control&hl=zh-CN&sa=X&ved=0ahUKEwiD8cmdrZPkAhUFj54KHWJ5BVUQ6AEILjAB)
 * []()
 * []()
-* []()
+
 
 **数学基础**
 * [**Numerical Optimization**](https://books.google.com/books?id=VbHYoSyelFcC&lpg=PP1&dq=Numerical%20Optimization&hl=zh-CN&pg=PP1#v=onepage&q=Numerical%20Optimization&f=false)
