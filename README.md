@@ -461,11 +461,22 @@ Excellent Website Collection
 **************************************************************************************************************************
 
 # 机器人书籍 | Robot Books
-* [**Numerical Optimization**](https://books.google.com/books?id=VbHYoSyelFcC&lpg=PP1&dq=Numerical%20Optimization&hl=zh-CN&pg=PP1#v=onepage&q=Numerical%20Optimization&f=false)
+**机器人理论**
 * [**Planning Algorithms**](https://books.google.com/books?id=-PwLBAAAQBAJ&lpg=PP1&dq=Planning%20Algorithms&hl=zh-CN&pg=PP1#v=onepage&q=Planning%20Algorithms&f=false)
+* [**Probabilistic Robotics** (Intelligent Robotics and Autonomous Agents series)](https://books.google.com/books?id=2Zn6AQAAQBAJ&lpg=PP1&dq=Probabilistic%20Robotics%20(Intelligent%20Robotics%20and%20Autonomous%20Agents%20series)&hl=zh-CN&pg=PP1#v=onepage&q=Probabilistic%20Robotics%20(Intelligent%20Robotics%20and%20Autonomous%20Agents%20series)&f=false)：概率机器人
+* [Springer Handbook of Robotics](https://books.google.com/books?id=Xpgi5gSuBxsC&printsec=frontcover&dq=robotics&hl=zh-CN&sa=X&ved=0ahUKEwimkZKmmZPkAhV1MX0KHf3wAwYQ6AEIPDAC#v=onepage&q=robotics&f=false):机器人学习工具手册
+* [Robotics: Modelling, Planning and Control](https://books.google.com/books?id=jPCAFmE-logC&lpg=PR2&dq=robotics&hl=zh-CN&pg=PR5#v=onepage&q=robotics&f=false)
+* [Computational Principles of Mobile Robotics](https://books.google.com/books?id=db5pr2275i0C&lpg=PP1&dq=robotics&hl=zh-CN&pg=PP1#v=onepage&q=robotics&f=false)
+* [Robotics, Vision and Control: Fundamental Algorithms in MATLAB](https://books.google.com/books?id=hdkytqtBcyQC&lpg=PP1&dq=robotics&hl=zh-CN&pg=PR2#v=onepage&q=robotics&f=false)
+* [Theory of Applied Robotics](https://books.google.com/books?id=hHS40c6sYucC&lpg=PP1&dq=robotics&hl=zh-CN&pg=PA1#v=onepage&q=robotics&f=false)
+* []()
+* []()
+* []()
+
+**数学基础**
+* [**Numerical Optimization**](https://books.google.com/books?id=VbHYoSyelFcC&lpg=PP1&dq=Numerical%20Optimization&hl=zh-CN&pg=PP1#v=onepage&q=Numerical%20Optimization&f=false)
 * [**Linear Algebra Done Wrong**](https://books.google.com/books?id=0_S7tAEACAAJ&dq=Linear+Algebra+Done+Wrong&hl=zh-CN&sa=X&ved=0ahUKEwiav5nEhZPkAhWVHzQIHcGQBt4Q6AEINDAC)
 * [**topologywithouttears**](http://www.topologywithouttears.net/)：拓扑方面的教材
-* [**Probabilistic Robotics** (Intelligent Robotics and Autonomous Agents series)](https://books.google.com/books?id=2Zn6AQAAQBAJ&lpg=PP1&dq=Probabilistic%20Robotics%20(Intelligent%20Robotics%20and%20Autonomous%20Agents%20series)&hl=zh-CN&pg=PP1#v=onepage&q=Probabilistic%20Robotics%20(Intelligent%20Robotics%20and%20Autonomous%20Agents%20series)&f=false)：概率机器人
 * [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf):凸优化
 * [Linear System Theory and Design](https://books.google.com/books?id=Fqi4oRgmOocC&dq=Linear+System+Electrical+Computer+Engineering&hl=zh-CN&sa=X&ved=0ahUKEwiU1JLfjJPkAhXCIDQIHYijD6MQ6AEIMDAB):线性系统理论
 * [Linear Estimation](https://books.google.com/books?id=zNJFAQAAIAAJ&q=Linear+Estimation&dq=Linear+Estimation&hl=zh-CN&sa=X&ved=0ahUKEwjViZjwjJPkAhUhL30KHRfRDe4Q6AEIKTAA):线性估计
@@ -474,12 +485,10 @@ Excellent Website Collection
 * [Feedback Systems: An Introduction for Scientists and Engineers](https://books.google.com/books?id=cdG9fNqTDS8C&lpg=PP1&dq=Feedback%20Systems%3A%20An%20Introduction%20for%20Scientists%20and%20Engineers&hl=zh-CN&pg=PP1#v=onepage&q=Feedback%20Systems:%20An%20Introduction%20for%20Scientists%20and%20Engineers&f=false)
 * [Stochastic models estimation and control](https://www.cs.unc.edu/~welch/kalman/media/pdf/maybeck_ch1.pdf)：随机系统的控制和最优控制
 * [A mathematical introduction to robotic manipulation](http://www.cds.caltech.edu/~murray/books/MLS/pdf/mls94-complete.pdf)
-* [An elementary introduction to groups and representations](https://arxiv.org/pdf/math-ph/0005032.pdf)
+* [An elementary introduction to groups and representations](https://arxiv.org/pdf/math-ph/0005032.pdf)：对群的精辟介绍
 * []()
 * []()
-* []()
-* []()
-* []()
+
 
 
 
