@@ -319,6 +319,7 @@ Excellent Website Collection
 * 简单路径规划博客：[Andy G's Blog](https://gieseanw.wordpress.com/)
 * 自动驾驶、深度学习博客：[阿贵](https://www.zhihu.com/people/a-gui-7/columns)
 * Tombone's Computer Vision Blog：[Tombone](http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html):Deep Learning, Computer Vision, and the algorithms that are shaping the future of Artificial Intelligence.
+* [Robert Eisele](https://www.xarg.org/):个人主页，网页及人工智能相关
 
 
 ## 2.综合型网站 | Comprehensive Web
