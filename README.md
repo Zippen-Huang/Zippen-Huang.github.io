@@ -340,6 +340,7 @@ Excellent Website Collection
 * 机器人范畴很全的资料链接-课程、书籍、软件、期刊、公司等;[A list of awesome Robotics resources:kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics)
 * 非常丰富的数学资源：[wolfram mathworld](http://mathworld.wolfram.com/)
 * 介绍机器人设计过程中的详细资料（包含理论推导和工程实践）:[TTU Advanced Robotics](http://ttuadvancedrobotics.wikidot.com/class-wikis)
+* 概率论、优化相关数学资料汇集网站：[Bob Fisher](http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/BMVA96Tut/BMVA96Tut.html)
 
 ## 3.资源搜索型网站 | Resource Search Web
 * 各类电子书籍下载网站：[Library Genesis](http://gen.lib.rus.ec/)
