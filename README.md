@@ -3,6 +3,7 @@
 *  **AM**: a (mobile) robot designer and maker      
 *  **E-mail**: huang_zhipeng@foxmail.com   
 *  **GITHUB**: [Zippen-Huang](https://github.com/Zippen-Huang)     
+*  **WeChat**: HuangPeng-1125
 
 # 研究领域 | Field of Research
  自动驾驶（融合感知与规划、自动控制） | self-driving system(integrated perception and planning,  motion control)    
@@ -139,7 +140,7 @@ Document useful resources during project development
 * [V4R (Vision for Robotics) library](https://rgit.acin.tuwien.ac.at/v4r/v4r_ros_wrappers/blob/master/Tutorial.md):视觉建模与识别、跟踪，支持ROS
 
 **定位 Localization**
-*
+* [RTKLIB](http://www.rtklib.com/):An Open Source Program Package for GNSS Positioning
 
 **综合 Synthesis**
 * [MRPT](http://www.mrpt.org/):移动机器人编程工具包
