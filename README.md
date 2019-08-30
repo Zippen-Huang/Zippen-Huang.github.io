@@ -229,6 +229,7 @@ DJI AUV | PixHawk
 ### 1.1 动态窗 | DWA(Dynamic Window Approach)
 * Fox D, Burgard W, Thrun S. The dynamic window approach to collision avoidance[J]. IEEE Robotics & Automation Magazine, 1997, 4(1): 23-33.   
 * Brock O, Khatib O. High-speed navigation using the global dynamic window approach[C]//Proceedings 1999 IEEE International Conference on Robotics and Automation (Cat. No. 99CH36288C). IEEE, 1999, 1: 341-346.   
+[差速轮航迹推演理论](https://www.cs.princeton.edu/courses/archive/fall11/cos495/COS495-Lecture5-Odometry.pdf)
 
 ### 1.2 时变橡皮筋算法 | TEB(Timed-Elastic-Band)
 * Rösmann C, Hoffmann F, Bertram T. Integrated online trajectory planning and optimization in distinctive topologies[J]. Robotics and Autonomous Systems, 2017, 88: 142-153.   
@@ -322,6 +323,7 @@ Excellent Website Collection
 * 自动驾驶、深度学习博客：[阿贵](https://www.zhihu.com/people/a-gui-7/columns)
 * Tombone's Computer Vision Blog：[Tombone](http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html):Deep Learning, Computer Vision, and the algorithms that are shaping the future of Artificial Intelligence.
 * [Robert Eisele](https://www.xarg.org/):个人主页，网页及人工智能相关[github](https://github.com/infusion)
+* [Adrian Boeing: Blog](http://adrianboeing.blogspot.com/)：机器人等相关话题的博客，涉及AI、计算机、教育、游戏、图像、操作系统、物理、编程等
 
 
 ## 2.综合型网站 | Comprehensive Web
@@ -350,6 +352,7 @@ Excellent Website Collection
 * 文献小镇（几乎能下载到所有文献）：[sci-hub](http://www.sci-hub.se/)
 * 国外硕博论文下载：[pqdtopen](https://pqdtopen.proquest.com/search.html)和[dart-europe](http://www.dart-europe.eu/About/info.php)
 * 三维模型下载：[grabcad](https://grabcad.com/library)
+* [sourceforge](https://sourceforge.net/):软件平台
 
 **************************************************************************************************************************
 
