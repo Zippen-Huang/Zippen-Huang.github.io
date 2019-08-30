@@ -229,7 +229,8 @@ DJI AUV | PixHawk
 ### 1.1 动态窗 | DWA(Dynamic Window Approach)
 * Fox D, Burgard W, Thrun S. The dynamic window approach to collision avoidance[J]. IEEE Robotics & Automation Magazine, 1997, 4(1): 23-33.   
 * Brock O, Khatib O. High-speed navigation using the global dynamic window approach[C]//Proceedings 1999 IEEE International Conference on Robotics and Automation (Cat. No. 99CH36288C). IEEE, 1999, 1: 341-346.   
-[差速轮航迹推演理论](https://www.cs.princeton.edu/courses/archive/fall11/cos495/COS495-Lecture5-Odometry.pdf)
+* [DWA伪代码](http://adrianboeing.blogspot.com/2012/05/dynamic-window-algorithm-motion.html)
+* [差速轮航迹推演理论](https://www.cs.princeton.edu/courses/archive/fall11/cos495/COS495-Lecture5-Odometry.pdf)
 
 ### 1.2 时变橡皮筋算法 | TEB(Timed-Elastic-Band)
 * Rösmann C, Hoffmann F, Bertram T. Integrated online trajectory planning and optimization in distinctive topologies[J]. Robotics and Autonomous Systems, 2017, 88: 142-153.   
