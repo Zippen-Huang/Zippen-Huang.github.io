@@ -23,7 +23,7 @@
 [6] 楼宇环境新型文件配送系统. (201910119506.7).     
 [7] 基于视觉的二维码定位抓取机器人系统算法. (201910011866.5).    
 [8] 一种多分裂高压导线断股修补辅助装置及其使用方法. (201910149941.4).     
-[9] 一种应用C形腿的六足机器人动力特性分析方法. (201910300123.X).     
+[9] 一种应用*腿的六足机器人动力特性分析方法. (201910300123*).     
 [10]基于SMA驱动方式的新型跳跃机器人. (2019103294229.8).        
 
 **************************************************************************************************************************
@@ -50,8 +50,8 @@ Robot projects practice, recorded in chronological order.
 
 ## 6 无人平台动力分析与电源管理 | Dynamic Analysis and Power Management of Unmanned Platform    
 **简介 | Introduction**  (2017.09 - 2018.04)    
-&emsp;&emsp;项目主要研究机器人。主要负责机器人动力特性分析，并设计电源管理系统。    
-&emsp;&emsp;The project focused on robots. Mainly responsible for the analysis of robot dynamic characteristics and design of power management system.     
+&emsp;&emsp;项目主要研究机器人电源。主要负责机器人动力特性分析，并设计电源管理系统。    
+&emsp;&emsp;The project focused on robot's power. Mainly responsible for the analysis of robot dynamic characteristics and design of power management system.     
 
 ## 5 基于手势控制的智能跟随物流车 | Intelligent Follow Logistics Vehicle    
 **简介 | Introduction**  (2016.10 - 2017.06)    
