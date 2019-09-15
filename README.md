@@ -51,8 +51,7 @@ Robot projects practice, recorded in chronological order.
 ## 6 六足无人平台动力分析与电源管理 | Dynamic Analysis and Power Management of Hexapod Unmanned Platform    
 **简介 | Introduction**  (2017.09 - 2018.04)    
 &emsp;&emsp;项目主要研究六足机器人。主要负责机器人动力特性分析，并设计电源管理系统。    
-&emsp;&emsp;The project focused on hexapod robots. Mainly responsible for the analysis of robot dynamic characteristics and design of power management system.    
- ![image](01-proj_images/六足机器人.jpg)   
+&emsp;&emsp;The project focused on hexapod robots. Mainly responsible for the analysis of robot dynamic characteristics and design of power management system.     
 
 ## 5 基于手势控制的智能跟随物流车 | Intelligent Follow Logistics Vehicle    
 **简介 | Introduction**  (2016.10 - 2017.06)    
