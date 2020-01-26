@@ -161,6 +161,7 @@ Document useful resources during project development
 * [blaze](https://code.google.com/p/blaze-lib/):高性能的C++数学库，用于密集和稀疏算法
 * [ceres-solver](http://ceres-solver.org/):来自谷歌的C++库，用于建模和解决大型复杂非线性最小平方问题   
 * [Boost](https://www.boost.org/)    
+* [newmat11](http://www.robertnz.net/nm11.htm):a matrix library in C++
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
