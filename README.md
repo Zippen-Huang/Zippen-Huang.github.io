@@ -121,6 +121,7 @@ Document useful resources during project development
 * Machine Learning: tensorflow, Caffe, Keras, PyTorch, and so on   
 * [Mathematica](http://www.wolfram.com/mathematica/):全球现代技术计算的终极系统
 * [UML](https://www.jianshu.com/p/8c9333352b37):Unified Modeling Language - 统一建模语言 - 搭建项目架构
+* [Doxygen](https://www.doxygen.nl/index.html):一个程序的文件产生工具，可将程序中的特定注释转换成为说明文件
 * [xmind](https://www.xmind.net/):思维导图
 
 ### 1.2 开源库 | the Third-party Libraries
