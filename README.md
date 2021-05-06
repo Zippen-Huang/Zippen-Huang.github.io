@@ -1,9 +1,9 @@
 # 个人信息 | Zippen's Info    
 
 *  **AM**: a (mobile) robot designer and maker      
-*  **E-mail**: huang_zhipeng@foxmail.com   
+*  **E-mail**: Zippen-Huang@outlook.com  
 *  **GITHUB**: [Zippen-Huang](https://github.com/Zippen-Huang)     
-*  **WeChat**: HuangPeng-1125
+*  **WeChat**: 混沌无形
 
 # 研究领域 | Field of Research
  自动驾驶（融合感知与规划、自动控制） | self-driving system(integrated perception and planning,  motion control)    
